@@ -24,11 +24,16 @@ JSON
     "lesson": "1-1"
   }
 ```
+Is the data complete?  
+No, beside missing words that I still haven't found yet or simply missed I can only see data up to the lesson I am currently doing, that is Section 4, Unit 6 right now. I also started curation the data near the end of Section 3, so I presume there are many words that are missing and hard to find because going through all the previous lessons is rather tedious. But this is whre YOU can help.
 
 What can I do with that?  
 Use it create Anki flashcards or any other things that can support language learning outise of Duolingo
 
 Can I support the project?  
 YES! When you do Duolingo, keep an eye on words that might be missing in the list. Missing means, they are in lessons, but somehow not in the  Duolingo Dictionary at https://www.duolingo.com/characters - or not in my data.
+
+Why the data is called something with `pairs`?  
+Because a created a Duolingo like pairs game for my personal use. But the data is ideentical to the dictionary.
 
 If you see a error in my data, let me know too.
