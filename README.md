@@ -40,4 +40,4 @@ YES! When you do Duolingo, keep an eye on words that might be missing in the lis
 Why the data is called something with `pairs`?  
 Because a created a Duolingo like pairs game for my personal use. But the data is ideentical to the dictionary.
 
-If you see a error in my data, let me know too.
+If you see an error in my data, let me know!
