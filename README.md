@@ -40,4 +40,6 @@ YES! When you do Duolingo, keep an eye on words that might be missing in the lis
 Why the data is called something with `pairs`?  
 Because a created a Duolingo like pairs game for my personal use. But the data is ideentical to the dictionary.
 
-If you see an error in my data, let me know!
+How can I let you know any error or missing word?  
+Use the `Issues` tab to leave a message. If you see a missing word please post the Chinese characters, and unit where you found it (i.e.  水, 1-1), I will add Pinyin or English
+
