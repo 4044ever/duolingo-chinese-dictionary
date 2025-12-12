@@ -160,7 +160,7 @@ chinese,pinyin,english,lesson
 感人,gǎn rén,emotional,3-6
 感谢,gǎn xiè,thank,3-22
 谢谢,xiè xie,thanks,1-7
-不用谢,bú yòng xiè,you're welcome,2-28
+不用谢,bú yòng xiè,no need for thanks,2-28
 健身房,jiàn shēn fáng,gym,1-10
 健康,jiàn kāng,healthy,2-6
 前面,qián miàn,front,2-11
@@ -240,7 +240,7 @@ chinese,pinyin,english,lesson
 哪,nǎ,which/what (sing.),2-18
 童年,tóng nián,childhood,3-22
 参加,cān jiā,participate,2-11
-加油,jiā yóu,Keep it up,2-14
+加油,jiā yóu,keep it up,2-14
 新加坡,xīn jiā pō,Singapore,3-18
 有名,yǒu míng,famous,2-2
 名字,míng zi,name,2-19
@@ -255,7 +255,7 @@ chinese,pinyin,english,lesson
 成绩,chéng jì,grade/score,3-8
 成功,chéng gōng,successful,3-20
 成立,chéng lì,establish,3-21
-不客气,bú kè qi,You're welcome,1-7
+不客气,bú kè qi,you're welcome,1-7
 客厅,kè tīng,living room,2-1
 客服,kè fú,customer service,3-4
 客户,kè hù,client,3-21
@@ -391,7 +391,7 @@ chinese,pinyin,english,lesson
 网上,wǎng shàng,online,2-17
 早上好,zǎo shang hǎo,good morning,2-18
 上,shàng,on/up,2-26
-上衣,shàng yī,shirt,2-30
+上衣,shàng yī,upper garment,2-30
 上楼,shàng lóu,go upstairs,3-19
 教学楼,jiào xué lóu,school building,2-11
 楼梯,lóu tī,stairs,3-16
@@ -553,7 +553,7 @@ chinese,pinyin,english,lesson
 爱情,ài qíng,romance,2-3
 可爱,kě ài,adorable,2-6
 爱,ài,love,3-24
-离,lí,from,2-28
+离,lí,from (distance),2-28
 离开,lí kāi,to leave,3-24
 开心,kāi xīn,happy/excited,2-9
 开始,kāi shǐ,start,2-17
@@ -599,7 +599,7 @@ chinese,pinyin,english,lesson
 最,zuì,most,2-20
 最喜欢的,zuì xǐ huan de,favorite,3-16
 地铁,dì tiě,subway,2-3
-地,dì,floor,2-6
+地,dì,floor (ground),2-6
 地方,dì fang,place,2-7
 地铁站,dì tiě zhàn,subway station,2-11
 地址,dì zhǐ,address,3-1
@@ -827,7 +827,7 @@ chinese,pinyin,english,lesson
 手术,shǒu shù,surgery,3-28
 通知,tōng zhī,inform,3-28
 座位,zuò wèi,seat,2-17
-位,wèi,polite measure word for people,3-28
+位,wèi,(m) polite for people,3-28
 充电器,chōng diàn qì,charger,3-28
 呢,ne,used to ask back,3-25
 律师,lǜ shī,lawyer,1-3
@@ -842,9 +842,9 @@ chinese,pinyin,english,lesson
 病,bìng, disease / to fall ill ,3-29
 生病,shēng bìng,get sick,3-29
 照顾,zhào gu,take care of,3-29
-压力很大,yā lì hěn dà,stressed,3-29
+压力很大,yā lì hěn dà,under stressed,3-29
 所有,suǒ yǒu,all / every,3-6
-所以,suǒ yǐ,so,3-29
+所以,suǒ yǐ,therefore/so,3-29
 可以,kě yǐ,can (permission),2-6
 晚点,wǎn diǎn,delay,3-29
 有点儿,yǒu diǎn r,a little,2-16
@@ -853,7 +853,7 @@ chinese,pinyin,english,lesson
 甜点,tián diǎn,dessert,3-13
 闹钟,nào zhōng,alarm clock,3-29
 感冒,gǎn mào,catch a cold,3-29
-口,kǒu,measure word for people,2-22
+口,kǒu,(m) for people,2-22
 没胃口,méi wèi kǒu,have no appetite,3-29
 在,zài,is/at,1-8
 现在,xiàn zài,now,2-4
@@ -916,7 +916,7 @@ chinese,pinyin,english,lesson
 冰,bīng,ice,1-7
 冰箱,bīng xiāng,refrigerator,2-1
 冰淇淋,bīng qí lín,ice cream,2-4
-对不对,duì bu duì,right,1-3
+对不对,duì bu duì,right?,1-3
 不,bù,no / negative,1-7
 对不起,duì bu qǐ,sorry,3-9
 去,qù,to go,1-6
@@ -1085,7 +1085,7 @@ chinese,pinyin,english,lesson
 煮,zhǔ,boil,2-9
 体温,tǐ wēn,temperature,2-9
 厉害,lì hai,impressive,2-22
-害怕,hài pà,afraid,2-30
+害怕,hài pà,to be afraid,2-30
 害羞,hài xiū,shy,3-12
 农村,nóng cūn,countryside,2-22
 了,le,completed action marker,2-9
@@ -1141,7 +1141,7 @@ T恤,xù,T-shirt,3-1
 能,néng,can (ability),3-4
 尺寸,chǐ cun,size,3-4
 抱歉,bào qiàn,apologize,3-4
-终于,zhōng yú,finally,3-16
+终于,zhōng yú,finally/at last,3-16
 度,dù,degree (temperature),3-29
 您,nín,you (formal),3-2
 教,jiào,teach,3-5
@@ -1186,18 +1186,34 @@ T恤,xù,T-shirt,3-1
 渴,kě,thirsty,2-16
 善良,shàn liáng,kind,3-6
 再,zài,again (in the future),3-6
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+着,zhe,indicating ongoing action,3-9
+过,guò,indicating past experience,3-5
+建议,jiàn yì,suggestion,3-5
+结账,jié zhàng,settle the bill,3-27
+巴黎,bā lí,Paris,2-29
+凌晨,líng chén,early morning,2-29
+精彩,jīng cǎi,excellent,2-29
+庆祝,qìng zhù,celebrate,2-29
+衬衫,chèn shān,shirt/blouse,2-18
+层,céng,floor (level),2-18
+谁,shéi,who,2-18
+清楚,qīng chu,clear,3-8
+页,yè,page,3-8
+从,cóng,from (origin),3-10
+瓶,píng,bottle of,3-15
+草莓,cǎo méi,strawberry,3-14
+脆,cuì,crisp,3-14
+洋葱,yáng cōng,onion,3-14
+雨伞,yǔ sǎn,umbrella,2-19
+汉字,hàn zì,Chinese characters,2-20
+叫,jiào,call,2-19
+四川,sì chuān,Sichuan,2-20
+写,xiě,write,2-20
+怕,pà,afraid,2-20
+给,gěi,give,2-27
+推荐,tuī jiàn,recommend,2-28
+千,qiān,thousand,2-28
+右,yòu,right,2-28
 让,ràng,let/make,4-1
 负责,fù zé,take responsibility for,4-1
 亲戚,qīn qi,relative,4-1
@@ -1216,7 +1232,7 @@ T恤,xù,T-shirt,3-1
 有帮助,yǒu bāng zhù,helpful,4-1
 改天,gǎi tiān,another day,4-1
 那么,nà me,so,4-1
-试,shì,try,4-1
+试,shì,try (casual),4-1
 记性,jì xing,memory,4-2
 变化,biàn huà,change,4-2
 胖,pàng,fat,4-2
@@ -1240,23 +1256,94 @@ T恤,xù,T-shirt,3-1
 电,diàn,electricity,4-3
 电池,diàn chí,battery,4-3
 充电宝,chōng diàn bǎo,power bank,4-3
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+肯定,kěn dìng,definitely,4-3
+突然,tū rán,suddenly,4-3
+地铁卡,dì tiě kǎ,metro card,4-3
+不见了,bú jiàn le,disappear,4-3
+错过,cuò guò,miss,4-3
+视频会议,shì pín huì yì,video conference,4-3
+最后,zuì hòu,finally/last,4-3
+只好,zhǐ hǎo,have to,4-3
+别人,bié ren,other people,4-3
+锻炼,duàn liàn,exercise,4-4
+高兴,gāo xìng,happy,4-4
+看起来,kàn qi lai,looks like..,4-4
+说实话,shuō shí huà,to be honest,4-4
+郊外,jiāo wài,suburb,4-4
+方法,fāng fǎ,method,4-4
+空气,kōng qì,air,4-4
+大自然,dà zì rán,nature,4-4
+刺激,cì jī,exciting,4-4
+美甲,měi jiǎ,manicure,4-4
+感动,gǎn dòng,touched,4-4
+关心,guān xīn,care/caring,4-4
+安排,ān pái,organize,4-4
+偶尔,ǒu ěr,occasionally,4-5
+农历,nóng lì,lunar calendar,4-5
+中秋节,zhōng qiū jié,Mid-Autumn Festival,4-5
+月亮,yuè liang,moon,4-5
+月饼,yuè bǐng,mooncake,4-5
+蛋黄,dàn huáng,egg yolk,4-5
+北方,běi fāng,the north,4-5
+南方,nán fāng,south,4-5
+每年,měi nián,every year,4-5
+楼顶,lóu dǐng,rooftop,4-5
+粽子,zòng zi,rice dumpling,4-5
+端午节,duān wǔ jié,Dragon Boat Festival,4-5
+放烟花,fàng yān huā,set off fireworks,4-5
+节日,jié rì,festival,4-5
+大餐,dà cān,feast,4-5
+打视频,dá shì pín,video call,4-5
+戒指,jiè zhi,ring,4-6
+看中,kàn zhòng,take a liking,4-6
+难看,nán kàn,ugly,4-6
+手链,shǒu liàn,bracelet,4-6
+划算,huá suàn,cost-effective,4-6
+刚好,gāng hǎo,just right,4-6
+银,yín,silver,4-6
+短,duǎn,short,4-6
+短裤,duǎn kù,shorts,4-6
+皮鞋,pí xié,leather shoes,4-6
+梳子,shū zi,comb,4-6
+香水,xiāng shuǐ,perfume,4-6
+墨镜,mò jìng,sunglasses,4-6
+把,bǎ,（m)  smt with handle,4-6
+三明治,sān míng zhì,sandwich,4-7
+厨师,chú shī,chef,4-7
+好评,hǎo píng,positive review,4-7
+多远,duō yuǎn,how far,4-7
+菜单,cài dān,menu,4-7
+顾客,gù kè,customer,4-7
+咖喱,gā lí,curry,4-7
+牛排,niú pái,steak,4-7
+蜂蜜,fēng mì,honey,4-7
+闻起来,wén qǐ lai,smells like,4-7
+香草,xiāng cǎo,vanilla,4-7
+服务员,fú wù yuán,waiter,4-7
+差评,chà píng,negative review,4-7
+体验,tǐ yàn,experience,4-7
 吵架,chǎo jià,argue,4-2
 尴尬,gān gà,awkward,4-2
 咱们,zán men,we/us (casual),4-2
 拒绝,jù jué,refuse,4-2
 组织,zǔ zhī,to organize ,4-2
+传统,chuán tǒng,traditional,4-5
+没想到,méi xiǎng dào,unexpected,4-6
+软,ruǎn,soft,4-6
+薄,báo,thin,4-6
+极,jí,extremely/top,4-6
+金,jīn,gold,4-6
+松,sōng,loose,4-6
+冲浪,chōng làng,surfing,4-4
+敢,gǎn,dare,4-6
+跳伞,tiào sǎn,skydiving,4-4
+按摩,àn mó,massage,4-4
+泡温泉,pào wēn quán,hot springs,4-4
+解压,jiě yā,relieve stress,4-4
+尝试,cháng shì,try (more formal),4-4
+散步,sàn bù,take a walk,4-4
+唉,ài,sigh/oh well,4-4
+刷,shuā,brush,0-0
+啊,a,"oh (surprise, realization)",4-7
+顿,dùn,meal,4-7
+越来越,yuè lái yuè,more and more,4-7
