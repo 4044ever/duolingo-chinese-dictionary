@@ -1,0 +1,6392 @@
+[
+  {
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "english": "water",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "水果",
+    "pinyin": "shuǐ guǒ",
+    "english": "fruit",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "水杯",
+    "pinyin": "shuǐ bēi",
+    "english": "water cup",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "汽水",
+    "pinyin": "qì shuǐ",
+    "english": "soda",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "跳水",
+    "pinyin": "tiào shuǐ",
+    "english": "dive",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "眼药水",
+    "pinyin": "yǎn yào shuǐ",
+    "english": "eye drops",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "洗发水",
+    "pinyin": "xǐ fā shuǐ",
+    "english": "shampoo",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "水瓶",
+    "pinyin": "shuǐ píng",
+    "english": "water bottle",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "咖啡",
+    "pinyin": "kā fēi",
+    "english": "coffee",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "咖啡馆",
+    "pinyin": "kā fēi guǎn",
+    "english": "cafe",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "和",
+    "pinyin": "hé",
+    "english": "and",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "暖和",
+    "pinyin": "nuǎn huó",
+    "english": "warm",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "茶",
+    "pinyin": "chá",
+    "english": "tea",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "奶茶",
+    "pinyin": "nǎi chá",
+    "english": "milk tea",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "绿茶",
+    "pinyin": "lǜ chá",
+    "english": "green tea",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "红茶",
+    "pinyin": "hóng chá",
+    "english": "black tea",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "米饭",
+    "pinyin": "mǐ fàn",
+    "english": "rice/food",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "爆米花",
+    "pinyin": "bào mǐ huā",
+    "english": "popcorn",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "玉米",
+    "pinyin": "yù mǐ",
+    "english": "corn",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "米",
+    "pinyin": "mǐ",
+    "english": "rice (raw)",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "一米",
+    "pinyin": "yì mǐ",
+    "english": "one meter",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "饭馆",
+    "pinyin": "fàn guǎn",
+    "english": "restaurant",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "晚饭",
+    "pinyin": "wǎn fàn",
+    "english": "dinner",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "做饭",
+    "pinyin": "zuò fàn",
+    "english": "cook",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "吃饭",
+    "pinyin": "chī fàn",
+    "english": "eat",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "早饭",
+    "pinyin": "zǎo fàn",
+    "english": "breakfast",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "午饭",
+    "pinyin": "wǔ fàn",
+    "english": "lunch",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "汤",
+    "pinyin": "tāng",
+    "english": "soup",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "热",
+    "pinyin": "rè",
+    "english": "hot",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "热闹",
+    "pinyin": "rè nào",
+    "english": "lively",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "热情",
+    "pinyin": "rè qíng",
+    "english": "enthusiastic",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "热狗",
+    "pinyin": "rè gǒu",
+    "english": "hot dog",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "这是",
+    "pinyin": "zhè shì",
+    "english": "this is",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "这",
+    "pinyin": "zhè",
+    "english": "this",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "这里",
+    "pinyin": "zhè lǐ",
+    "english": "here",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "这些",
+    "pinyin": "zhè xiē",
+    "english": "these",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "这次",
+    "pinyin": "zhè cì",
+    "english": "this time",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "这么",
+    "pinyin": "zhè me",
+    "english": "such",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "这几年",
+    "pinyin": "zhè jǐ nián",
+    "english": "these past few years",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "是",
+    "pinyin": "shì",
+    "english": "am/is",
+    "lesson": "1-2"
+  },
+  {
+    "chinese": "还是",
+    "pinyin": "hái shì",
+    "english": "or (choice)",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "是我",
+    "pinyin": "shì wǒ",
+    "english": "it’s me",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "我也是",
+    "pinyin": "wǒ yě shì",
+    "english": "so do I",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "但是",
+    "pinyin": "dàn shì",
+    "english": "but",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "粥",
+    "pinyin": "zhōu",
+    "english": "porridge",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "豆腐",
+    "pinyin": "dòu fu",
+    "english": "tofu",
+    "lesson": "1-1"
+  },
+  {
+    "chinese": "土豆",
+    "pinyin": "tǔ dòu",
+    "english": "potato",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "平时",
+    "pinyin": "píng shí",
+    "english": "usually",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "一路平安",
+    "pinyin": "yí lù píng ān",
+    "english": "safe travels",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "联系",
+    "pinyin": "lián xì",
+    "english": "contact",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "自行车",
+    "pinyin": "zì xíng chē",
+    "english": "bicycle",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "行李箱",
+    "pinyin": "xíng li xiāng",
+    "english": "suitcase",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "天安门",
+    "pinyin": "tiān ān mén",
+    "english": "tian an men",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "行李",
+    "pinyin": "xíng li",
+    "english": "luggage",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "流行",
+    "pinyin": "liú xíng",
+    "english": "in fashion",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "不行",
+    "pinyin": "bù xíng",
+    "english": "no",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "旅行",
+    "pinyin": "lǚ xíng",
+    "english": "travel",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "举行",
+    "pinyin": "jǔ xíng",
+    "english": "hold",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "李",
+    "pinyin": "lǐ",
+    "english": "li (name)",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "一些",
+    "pinyin": "yì xiē",
+    "english": "some",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "一起",
+    "pinyin": "yì qǐ",
+    "english": "together",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "一边",
+    "pinyin": "yì biān",
+    "english": "while",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "一共",
+    "pinyin": "yí gòng",
+    "english": "altogether",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "在一起",
+    "pinyin": "zài yì qǐ",
+    "english": "be together",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "大一",
+    "pinyin": "dà yī",
+    "english": "freshman",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "聚在一起",
+    "pinyin": "jù zài yì qǐ",
+    "english": "gather",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "一会儿",
+    "pinyin": "yí huì er",
+    "english": "a little while",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "路",
+    "pinyin": "lù",
+    "english": "road",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "安静",
+    "pinyin": "ān jìng",
+    "english": "quiet",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "晚安",
+    "pinyin": "wǎn ān",
+    "english": "good night",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "安全",
+    "pinyin": "ān quán",
+    "english": "safe",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "出去玩儿",
+    "pinyin": "chū qù wán r",
+    "english": "go out for fun",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "出生",
+    "pinyin": "chū shēng",
+    "english": "born",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "出国",
+    "pinyin": "chū guó",
+    "english": "travel abroad",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "出发",
+    "pinyin": "chū fā",
+    "english": "depart",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "出租车",
+    "pinyin": "chū zū chē",
+    "english": "taxi",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "演出",
+    "pinyin": "yǎn chū",
+    "english": "performance",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "出来",
+    "pinyin": "chū lái",
+    "english": "come out",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "出口",
+    "pinyin": "chū kǒu",
+    "english": "exit",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "出差",
+    "pinyin": "chū chāi",
+    "english": "go on biz trip",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "差不多",
+    "pinyin": "chà bù duō",
+    "english": "almost",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "差",
+    "pinyin": "chà",
+    "english": "poor",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "马上",
+    "pinyin": "mǎ shàng",
+    "english": "soon",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "罗马",
+    "pinyin": "luó mǎ",
+    "english": "Rome",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "几",
+    "pinyin": "jǐ",
+    "english": "several/how many",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "几点",
+    "pinyin": "jǐ diǎn",
+    "english": "what time",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "几个",
+    "pinyin": "jǐ gè",
+    "english": "few",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "几月几号",
+    "pinyin": "jǐ yuè jǐ hào",
+    "english": "What date",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "月",
+    "pinyin": "yuè",
+    "english": "month",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "导演",
+    "pinyin": "dǎo yǎn",
+    "english": "director",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "支",
+    "pinyin": "zhī",
+    "english": "branch",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "支持",
+    "pinyin": "zhī chí",
+    "english": "support",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "姑姑",
+    "pinyin": "gū gu",
+    "english": "aunt",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "亲近",
+    "pinyin": "qīn jìn",
+    "english": "close (relation)",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "叔叔",
+    "pinyin": "shū shu",
+    "english": "uncle",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "拍",
+    "pinyin": "pāi",
+    "english": "film/take photo",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "决定",
+    "pinyin": "jué dìng",
+    "english": "decide",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "年",
+    "pinyin": "nián",
+    "english": "year",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "今年",
+    "pinyin": "jīn nián",
+    "english": "this year",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "明年",
+    "pinyin": "míng nián",
+    "english": "next year",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "年轻",
+    "pinyin": "nián qīng",
+    "english": "young",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "去年",
+    "pinyin": "qù nián",
+    "english": "last year",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "年龄",
+    "pinyin": "nián líng",
+    "english": "age",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "哪年",
+    "pinyin": "nǎ nián",
+    "english": "which year",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "大学生",
+    "pinyin": "dà xué shēng",
+    "english": "university student",
+    "lesson": "1-4"
+  },
+  {
+    "chinese": "加拿大",
+    "pinyin": "jiā ná dà",
+    "english": "Canada",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "大",
+    "pinyin": "dà",
+    "english": "big",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "长大",
+    "pinyin": "zhǎng dà",
+    "english": "grew up",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "大衣",
+    "pinyin": "dà yī",
+    "english": "coat",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "多大",
+    "pinyin": "duō dà",
+    "english": "how big/old",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "大门",
+    "pinyin": "dà mén",
+    "english": "main entrance",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "大巴",
+    "pinyin": "dà bā",
+    "english": "bus (informal)",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "大学",
+    "pinyin": "dà xué",
+    "english": "university",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "大蒜",
+    "pinyin": "dà suàn",
+    "english": "garlic",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "澳大利亚",
+    "pinyin": "ào dà lì yà",
+    "english": "australia",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "大家",
+    "pinyin": "dà jiā",
+    "english": "everyone (group)",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "演唱会",
+    "pinyin": "yǎn chàng huì",
+    "english": "concert (pop)",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "演员",
+    "pinyin": "yǎn yuán",
+    "english": "actor",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "表演",
+    "pinyin": "biǎo yǎn",
+    "english": "perform",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "老家",
+    "pinyin": "lǎo jiā",
+    "english": "hometown",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "家",
+    "pinyin": "jiā",
+    "english": "home",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "家人",
+    "pinyin": "jiā rén",
+    "english": "family members",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "在家",
+    "pinyin": "zài jiā",
+    "english": "at home",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "家务",
+    "pinyin": "jiā wù",
+    "english": "housework",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "作家",
+    "pinyin": "zuò jiā",
+    "english": "writer",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "家具",
+    "pinyin": "jiā jù",
+    "english": "furniture",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "国家",
+    "pinyin": "guó jiā",
+    "english": "country",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "搬家",
+    "pinyin": "bān jiā",
+    "english": "moved",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "经理",
+    "pinyin": "jīng lǐ",
+    "english": "manager",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "经历",
+    "pinyin": "jīng lì",
+    "english": "experience (make the ..)",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "历史",
+    "pinyin": "lì shǐ",
+    "english": "history",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "外面",
+    "pinyin": "wài mian",
+    "english": "outside",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "外地",
+    "pinyin": "wài dì",
+    "english": "out of town",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "国外",
+    "pinyin": "guó wài",
+    "english": "abroad",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "外卖",
+    "pinyin": "wài mài",
+    "english": "takeout",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "外婆",
+    "pinyin": "wài pó",
+    "english": "grandmother (mothers)",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "外公",
+    "pinyin": "wài gōng",
+    "english": "grandfather (mothers)",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "外国",
+    "pinyin": "wài guó",
+    "english": "foreign country",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "课外",
+    "pinyin": "kè wài",
+    "english": "extracurricular",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "外套",
+    "pinyin": "wài tào",
+    "english": "coat/jacket",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "户外",
+    "pinyin": "hù wài",
+    "english": "outdoor",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "外语",
+    "pinyin": "wài yǔ",
+    "english": "foreign language",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "语言",
+    "pinyin": "yǔ yán",
+    "english": "language",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "法语",
+    "pinyin": "fǎ yǔ",
+    "english": "French",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "西班牙语",
+    "pinyin": "xī bān yá yǔ",
+    "english": "Spanish",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "日语",
+    "pinyin": "rì yǔ",
+    "english": "Japanese",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "意大利语",
+    "pinyin": "yì dà lì yǔ",
+    "english": "Italian",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "葡萄牙语",
+    "pinyin": "pú táo yá yǔ",
+    "english": "Portuguese",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "德语",
+    "pinyin": "dé yǔ",
+    "english": "German",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "东西",
+    "pinyin": "dōng xi",
+    "english": "thing",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "广东",
+    "pinyin": "guǎng dōng",
+    "english": "Guangdong",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "东京",
+    "pinyin": "dōng jīng",
+    "english": "Tokyo",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "北京",
+    "pinyin": "běi jīng",
+    "english": "Beijing",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "北京大学",
+    "pinyin": "běi jīng dà xué",
+    "english": "Peking University",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "附近",
+    "pinyin": "fù jìn",
+    "english": "nearby",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "近",
+    "pinyin": "jìn",
+    "english": "close/not far",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "最近",
+    "pinyin": "zuì jìn",
+    "english": "recent",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "最近怎么样",
+    "pinyin": "zuì jìn zěn me yàng",
+    "english": "how are things",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "感人",
+    "pinyin": "gǎn rén",
+    "english": "emotional",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "感谢",
+    "pinyin": "gǎn xiè",
+    "english": "thank",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "谢谢",
+    "pinyin": "xiè xie",
+    "english": "thanks",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "不用谢",
+    "pinyin": "bú yòng xiè",
+    "english": "you're welcome",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "健身房",
+    "pinyin": "jiàn shēn fáng",
+    "english": "gym",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "健康",
+    "pinyin": "jiàn kāng",
+    "english": "healthy",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "前面",
+    "pinyin": "qián miàn",
+    "english": "front",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "前",
+    "pinyin": "qián",
+    "english": "before",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "前天",
+    "pinyin": "qián tiān",
+    "english": "the day before yesterday",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "以前",
+    "pinyin": "yǐ qián",
+    "english": "long time ago",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "提前",
+    "pinyin": "tí qián",
+    "english": "earlier (ahead)",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "前台",
+    "pinyin": "qián tái",
+    "english": "reception",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "前女友",
+    "pinyin": "qián nǚ yǒu",
+    "english": "ex-girlfriend",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "手机",
+    "pinyin": "shǒu jī",
+    "english": "cellphone",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "洗碗机",
+    "pinyin": "xǐ wǎn jī",
+    "english": "dishwasher",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "机场",
+    "pinyin": "jī chǎng",
+    "english": "airport",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "飞机",
+    "pinyin": "fēi jī",
+    "english": "plane",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "游戏机",
+    "pinyin": "yóu xì jī",
+    "english": "game console",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "计算机",
+    "pinyin": "jì suàn jī",
+    "english": "computer science",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "相机",
+    "pinyin": "xiàng jī",
+    "english": "camera",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "售货机",
+    "pinyin": "shòu huò jī",
+    "english": "vending machine",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "洗衣机",
+    "pinyin": "xǐ yī jī",
+    "english": "washing machine",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "耳机",
+    "pinyin": "ěr jī",
+    "english": "headphone",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "机会",
+    "pinyin": "jī huì",
+    "english": "opportunity",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "会",
+    "pinyin": "huì",
+    "english": "can / meeting",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "会议室",
+    "pinyin": "huì yì shì",
+    "english": "meeting room",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "奥运会",
+    "pinyin": "ào yùn huì",
+    "english": "Olympics",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "会员",
+    "pinyin": "huì yuán",
+    "english": "member",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "约会对象",
+    "pinyin": "yuē huì duì xiàng",
+    "english": "date",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "晚会",
+    "pinyin": "wǎn huì",
+    "english": "evening party/gala",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "运动会",
+    "pinyin": "yùn dòng huì",
+    "english": "sports event",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "音乐会",
+    "pinyin": "yīn yuè huì",
+    "english": "concert (classic)",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "为什么",
+    "pinyin": "wèi shén me",
+    "english": "why",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "为了",
+    "pinyin": "wèi le",
+    "english": "for",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "怎么了",
+    "pinyin": "zěn me le",
+    "english": "what’s wrong",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "太棒了",
+    "pinyin": "tài bàng le",
+    "english": "great",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "除了",
+    "pinyin": "chú le",
+    "english": "except",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "别忘了",
+    "pinyin": "bié wàng le",
+    "english": "don’t forget",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "不用了",
+    "pinyin": "bú yòng le",
+    "english": "No need",
+    "lesson": "3-14"
+  },
+  {
+    "chinese": "好了",
+    "pinyin": "hǎo le",
+    "english": "finished/ready",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "坏了",
+    "pinyin": "huài le",
+    "english": "broken",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "后面",
+    "pinyin": "hòu miàn",
+    "english": "behind",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "后天",
+    "pinyin": "hòu tiān",
+    "english": "the day after tomorrow",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "然后",
+    "pinyin": "rán hòu",
+    "english": "then",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "以后",
+    "pinyin": "yǐ hòu",
+    "english": "future",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "后",
+    "pinyin": "hòu",
+    "english": "after",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "后来",
+    "pinyin": "hòu lái",
+    "english": "later/afterwards",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "来",
+    "pinyin": "lái",
+    "english": "come",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "回来",
+    "pinyin": "huí lai",
+    "english": "return",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "从来",
+    "pinyin": "cóng lái",
+    "english": "never",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "听起来",
+    "pinyin": "tīng qǐ lai",
+    "english": "sound like",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "账号",
+    "pinyin": "zhàng hào",
+    "english": "account",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "号",
+    "pinyin": "hào",
+    "english": "number",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "电话号码",
+    "pinyin": "diàn huà hào mǎ",
+    "english": "phone number",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "收拾",
+    "pinyin": "shōu shi",
+    "english": "tidy up/pack",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "身份证",
+    "pinyin": "shēn fèn zhèng",
+    "english": "ID card",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "毕业证",
+    "pinyin": "bì yè zhèng",
+    "english": "diploma",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "签证",
+    "pinyin": "qiān zhèng",
+    "english": "visa",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "预报",
+    "pinyin": "yù bào",
+    "english": "forecast",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "预订",
+    "pinyin": "yù dìng",
+    "english": "to book",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "订",
+    "pinyin": "dìng",
+    "english": "to book (casual)",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "订单",
+    "pinyin": "dìng dān",
+    "english": "order",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "没关系",
+    "pinyin": "méi guān xi",
+    "english": "it's okay",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "关系",
+    "pinyin": "guān xi",
+    "english": "relationship",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "站台",
+    "pinyin": "zhàn tái",
+    "english": "platform",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "台灯",
+    "pinyin": "tái dēng",
+    "english": "lamp",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "阳台",
+    "pinyin": "yáng tái",
+    "english": "balcony",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "舞台",
+    "pinyin": "wǔ tái",
+    "english": "stage",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "加入",
+    "pinyin": "jiā rù",
+    "english": "join",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "入口",
+    "pinyin": "rù kǒu",
+    "english": "entrance (formal)",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "入住",
+    "pinyin": "rù zhù",
+    "english": "check in",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "住在",
+    "pinyin": "zhù zài",
+    "english": "live/reside",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "门票",
+    "pinyin": "mén piào",
+    "english": "admission ticket",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "门",
+    "pinyin": "mén",
+    "english": "door",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "开门",
+    "pinyin": "kāi mén",
+    "english": "open door",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "关门",
+    "pinyin": "guān mén",
+    "english": "close/closed",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "门口",
+    "pinyin": "mén kǒu",
+    "english": "entrance/door",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "部门",
+    "pinyin": "bù mén",
+    "english": "department",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "哪里",
+    "pinyin": "nǎ lǐ",
+    "english": "where",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "哪些",
+    "pinyin": "nǎ xiē",
+    "english": "which/what (plur.)",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "哪",
+    "pinyin": "nǎ",
+    "english": "which/what (sing.)",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "童年",
+    "pinyin": "tóng nián",
+    "english": "childhood",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "参加",
+    "pinyin": "cān jiā",
+    "english": "participate",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "加油",
+    "pinyin": "jiā yóu",
+    "english": "Keep it up",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "新加坡",
+    "pinyin": "xīn jiā pō",
+    "english": "Singapore",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "有名",
+    "pinyin": "yǒu míng",
+    "english": "famous",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "名字",
+    "pinyin": "míng zi",
+    "english": "name",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "名人",
+    "pinyin": "míng rén",
+    "english": "celebrity",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "名片",
+    "pinyin": "míng piàn",
+    "english": "business card",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "薯片",
+    "pinyin": "shǔ piàn",
+    "english": "chips",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "照片",
+    "pinyin": "zhào piàn",
+    "english": "photo",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "动画片",
+    "pinyin": "dòng huà piàn",
+    "english": "cartoon",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "明信片",
+    "pinyin": "míng xìn piàn",
+    "english": "postcard",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "完成",
+    "pinyin": "wán chéng",
+    "english": "complete",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "成都",
+    "pinyin": "chéng dū",
+    "english": "Chengdu",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "成绩",
+    "pinyin": "chéng jì",
+    "english": "grade/score",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "成功",
+    "pinyin": "chéng gōng",
+    "english": "successful",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "成立",
+    "pinyin": "chéng lì",
+    "english": "establish",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "不客气",
+    "pinyin": "bú kè qi",
+    "english": "You're welcome",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "客厅",
+    "pinyin": "kè tīng",
+    "english": "living room",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "客服",
+    "pinyin": "kè fú",
+    "english": "customer service",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "客户",
+    "pinyin": "kè hù",
+    "english": "client",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "回",
+    "pinyin": "huí",
+    "english": "return/reply",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "取消",
+    "pinyin": "qǔ xiāo",
+    "english": "cancel",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "消息",
+    "pinyin": "xiāo xi",
+    "english": "message",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "休息",
+    "pinyin": "xiū xi",
+    "english": "rest",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "信息",
+    "pinyin": "xìn xī",
+    "english": "information",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "同学",
+    "pinyin": "tóng xué",
+    "english": "classmate",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "同事",
+    "pinyin": "tóng shì",
+    "english": "colleague",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "不同",
+    "pinyin": "bù tóng",
+    "english": "different",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "同意",
+    "pinyin": "tóng yì",
+    "english": "agree",
+    "lesson": "3-21"
+  },
+  {
+    "chinese": "满意",
+    "pinyin": "mǎn yì",
+    "english": "satisfied",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "意思",
+    "pinyin": "yì si",
+    "english": "meaning",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "没意思",
+    "pinyin": "méi yì si",
+    "english": "boring",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "好主意",
+    "pinyin": "hǎo zhǔ yi",
+    "english": "good idea",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "错误",
+    "pinyin": "cuò wù",
+    "english": "incorrect",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "英文",
+    "pinyin": "yīng wén",
+    "english": "English",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "中文",
+    "pinyin": "zhōng wén",
+    "english": "Chinese",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "韩文",
+    "pinyin": "hán wén",
+    "english": "Korean",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "作文",
+    "pinyin": "zuò wén",
+    "english": "essay",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "文学",
+    "pinyin": "wén xué",
+    "english": "literature",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "文化",
+    "pinyin": "wén huà",
+    "english": "culture",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "论文",
+    "pinyin": "lùn wén",
+    "english": "thesis",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "文件",
+    "pinyin": "wén jiàn",
+    "english": "document",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "件",
+    "pinyin": "jiàn",
+    "english": "[m] clothing",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "邮件",
+    "pinyin": "yóu jiàn",
+    "english": "email",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "不错",
+    "pinyin": "bú cuò",
+    "english": "good/not bad",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "错",
+    "pinyin": "cuò",
+    "english": "wrong",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "记得",
+    "pinyin": "jì de",
+    "english": "remember",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "日记",
+    "pinyin": "rì jì",
+    "english": "diary",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "笔记",
+    "pinyin": "bǐ jì",
+    "english": "note",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "觉得",
+    "pinyin": "jué de",
+    "english": "feel",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "日本",
+    "pinyin": "rì běn",
+    "english": "Japan",
+    "lesson": "1-2"
+  },
+  {
+    "chinese": "生日",
+    "pinyin": "shēng rì",
+    "english": "birthday",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "日期",
+    "pinyin": "rì qī",
+    "english": "date (in calendar)",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "星期六",
+    "pinyin": "xīng qī liù",
+    "english": "Saturday",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "星期天",
+    "pinyin": "xīng qī tiān",
+    "english": "Sunday",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "星期",
+    "pinyin": "xīng qī",
+    "english": "week",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "假期",
+    "pinyin": "jià qī",
+    "english": "holiday",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "期待",
+    "pinyin": "qī dài",
+    "english": "look forward to",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "学期",
+    "pinyin": "xué qī",
+    "english": "semester",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "过期",
+    "pinyin": "guò qī",
+    "english": "expire",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "沙发",
+    "pinyin": "shā fā",
+    "english": "sofa",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "发烧",
+    "pinyin": "fā shāo",
+    "english": "fever",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "发现",
+    "pinyin": "fā xiàn",
+    "english": "notice / uncover",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "头发",
+    "pinyin": "tóu fa",
+    "english": "hair",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "发",
+    "pinyin": "fā",
+    "english": "send",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "书店",
+    "pinyin": "shū diàn",
+    "english": "bookstore",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "书",
+    "pinyin": "shū",
+    "english": "book",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "书架",
+    "pinyin": "shū jià",
+    "english": "bookshelf",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "图书馆",
+    "pinyin": "tú shū guǎn",
+    "english": "library",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "书房",
+    "pinyin": "shū fáng",
+    "english": "study",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "书包",
+    "pinyin": "shū bāo",
+    "english": "school bag",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "书法",
+    "pinyin": "shū fǎ",
+    "english": "calligraphy",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "秘书",
+    "pinyin": "mì shū",
+    "english": "secretary",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "请问",
+    "pinyin": "qǐng wèn",
+    "english": "excuse me",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "没问题",
+    "pinyin": "méi wèn tí",
+    "english": "No problem",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "问题",
+    "pinyin": "wèn tí",
+    "english": "question/problem",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "问",
+    "pinyin": "wèn",
+    "english": "ask",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "有问题",
+    "pinyin": "yǒu wèn tí",
+    "english": "have a problem",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "题目",
+    "pinyin": "tí mù",
+    "english": "topic",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "主题曲",
+    "pinyin": "zhǔ tí qǔ",
+    "english": "theme song",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "报纸",
+    "pinyin": "bào zhǐ",
+    "english": "newspaper",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "纸",
+    "pinyin": "zhǐ",
+    "english": "paper",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "打",
+    "pinyin": "dǎ",
+    "english": "beat/pack",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "打扫",
+    "pinyin": "dǎ sǎo",
+    "english": "cleaning",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "打开",
+    "pinyin": "dǎ kāi",
+    "english": "turn on",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "打印",
+    "pinyin": "dǎ yìn",
+    "english": "print",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "休假",
+    "pinyin": "xiū jiǎ",
+    "english": "take a vacation",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "假",
+    "pinyin": "jiǎ",
+    "english": "leave/vacation",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "暑假",
+    "pinyin": "shǔ jià",
+    "english": "summer vacation",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "一样",
+    "pinyin": "yí yàng",
+    "english": "same as",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "项链",
+    "pinyin": "xiàng liàn",
+    "english": "necklace",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "项目",
+    "pinyin": "xiàng mù",
+    "english": "project",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "节目",
+    "pinyin": "jié mù",
+    "english": "program",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "准备",
+    "pinyin": "zhǔn bèi",
+    "english": "prepare",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "准时",
+    "pinyin": "zhǔn shí",
+    "english": "on time",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "小时候",
+    "pinyin": "xiǎo shí hou",
+    "english": "when I was young",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "有时候",
+    "pinyin": "yǒu shí hou",
+    "english": "sometimes",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "时间",
+    "pinyin": "shí jiān",
+    "english": "time",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "时尚",
+    "pinyin": "shí shàng",
+    "english": "fashionable",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "什么时候",
+    "pinyin": "shén me shí hou",
+    "english": "when",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "当时",
+    "pinyin": "dāng shí",
+    "english": "at that time",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "解决",
+    "pinyin": "jiě jué",
+    "english": "resolve",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "报告",
+    "pinyin": "bào gào",
+    "english": "report",
+    "lesson": "3-20"
+  },
+  {
+    "chinese": "告诉",
+    "pinyin": "gào su",
+    "english": "tell",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "第一次",
+    "pinyin": "dì yí cì",
+    "english": "first time",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "人民币",
+    "pinyin": "rén mín bì",
+    "english": "renminbi",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "银行",
+    "pinyin": "yín háng",
+    "english": "bank",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "倒霉",
+    "pinyin": "dǎo méi",
+    "english": "unlucky",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "注意安全",
+    "pinyin": "zhù yì ān quán",
+    "english": "stay safe",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "西红柿",
+    "pinyin": "xī hóng shì",
+    "english": "tomato",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "西瓜",
+    "pinyin": "xī guā",
+    "english": "watermelon",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "西班牙",
+    "pinyin": "xī bān yá",
+    "english": "Spain",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "巴西",
+    "pinyin": "bā xī",
+    "english": "Brazil",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "西安",
+    "pinyin": "xī ān",
+    "english": "Xi'an",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "下一",
+    "pinyin": "xià yī",
+    "english": "next",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "下次",
+    "pinyin": "xià cì",
+    "english": "next time",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "次",
+    "pinyin": "cì",
+    "english": "[m] time",
+    "lesson": "3-22"
+  },
+  {
+    "chinese": "迷路",
+    "pinyin": "mí lù",
+    "english": "getting lost",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "路口",
+    "pinyin": "lù kǒu",
+    "english": "intersection",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "本",
+    "pinyin": "běn",
+    "english": "[m] books",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "本地人",
+    "pinyin": "běn dì rén",
+    "english": "local person",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "东",
+    "pinyin": "dōng",
+    "english": "east",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "游",
+    "pinyin": "yóu",
+    "english": "rel. to movement",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "游泳",
+    "pinyin": "yóu yǒng",
+    "english": "swim",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "游戏",
+    "pinyin": "yóu xì",
+    "english": "game",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "游泳池",
+    "pinyin": "yóu yǒng chí",
+    "english": "swimming pool",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "桌游",
+    "pinyin": "zhuō yóu",
+    "english": "board game",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "游乐场",
+    "pinyin": "yóu lè chǎng",
+    "english": "amusement park",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "游客",
+    "pinyin": "yóu kè",
+    "english": "tourist",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "换",
+    "pinyin": "huàn",
+    "english": "exchange",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "抽屉",
+    "pinyin": "chōu ti",
+    "english": "drawer",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "挂",
+    "pinyin": "guà",
+    "english": "hang",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "花盆",
+    "pinyin": "huā pén",
+    "english": "flowerpot",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "下车",
+    "pinyin": "xià chē",
+    "english": "get off",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "地下室",
+    "pinyin": "dì xià shì",
+    "english": "basement",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "楼下",
+    "pinyin": "lóu xià",
+    "english": "downstairs",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "火车站",
+    "pinyin": "huǒ chē zhàn",
+    "english": "train station",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "车票",
+    "pinyin": "chē piào",
+    "english": "train/bus ticket",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "火车",
+    "pinyin": "huǒ chē",
+    "english": "train",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "公交车",
+    "pinyin": "gōng jiāo chē",
+    "english": "bus",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "停车场",
+    "pinyin": "tíng chē chǎng",
+    "english": "parking lot",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "车",
+    "pinyin": "chē",
+    "english": "car",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "停车",
+    "pinyin": "tíng chē",
+    "english": "park a car",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "停",
+    "pinyin": "tíng",
+    "english": "to park (car)",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "上网",
+    "pinyin": "shàng wǎng",
+    "english": "access the internet",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "早上",
+    "pinyin": "zǎo shang",
+    "english": "morning",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "晚上",
+    "pinyin": "wǎn shang",
+    "english": "evening",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "上海",
+    "pinyin": "shàng hǎi",
+    "english": "Shanghai",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "上午",
+    "pinyin": "shàng wǔ",
+    "english": "late morning",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "网上",
+    "pinyin": "wǎng shàng",
+    "english": "online",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "早上好",
+    "pinyin": "zǎo shang hǎo",
+    "english": "good morning",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "上",
+    "pinyin": "shàng",
+    "english": "on",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "上衣",
+    "pinyin": "shàng yī",
+    "english": "shirt",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "上楼",
+    "pinyin": "shàng lóu",
+    "english": "go upstairs",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "教学楼",
+    "pinyin": "jiào xué lóu",
+    "english": "school building",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "楼梯",
+    "pinyin": "lóu tī",
+    "english": "stairs",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "申请",
+    "pinyin": "shēn qǐng",
+    "english": "apply",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "亚洲",
+    "pinyin": "yà zhōu",
+    "english": "Asian",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "虽然",
+    "pinyin": "suī rán",
+    "english": "although",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "学费",
+    "pinyin": "xué fèi",
+    "english": "tuition",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "免费",
+    "pinyin": "miǎn fèi",
+    "english": "free",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "它",
+    "pinyin": "tā",
+    "english": "it",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "查",
+    "pinyin": "chá",
+    "english": "look up",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "烦",
+    "pinyin": "fán",
+    "english": "annoying",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "请",
+    "pinyin": "qǐng",
+    "english": "please",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "邀请",
+    "pinyin": "yāo qǐng",
+    "english": "invite",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "请进",
+    "pinyin": "qǐng jìn",
+    "english": "please come in",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "欧洲",
+    "pinyin": "ōu zhōu",
+    "english": "Europe",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "工程师",
+    "pinyin": "gōng chéng shī",
+    "english": "engineer",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "工程",
+    "pinyin": "gōng chéng",
+    "english": "engineering",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "english": "less/few",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "多少钱",
+    "pinyin": "duō shǎo qián",
+    "english": "how much money",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "多少",
+    "pinyin": "duō shao",
+    "english": "how much",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "租",
+    "pinyin": "zū",
+    "english": "to rent",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "租金",
+    "pinyin": "zū jīn",
+    "english": "the rent",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "现金",
+    "pinyin": "xiàn jīn",
+    "english": "cash",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "奖学金",
+    "pinyin": "jiǎng xué jīn",
+    "english": "scholarship",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "当然",
+    "pinyin": "dāng rán",
+    "english": "of course",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "新",
+    "pinyin": "xīn",
+    "english": "new",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "新鲜",
+    "pinyin": "xīn xiān",
+    "english": "fresh",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "新闻",
+    "pinyin": "xīn wén",
+    "english": "news",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "便利店",
+    "pinyin": "biàn lì diàn",
+    "english": "convenience store",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "留学",
+    "pinyin": "liú xué",
+    "english": "study abroad",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "留学生",
+    "pinyin": "liú xué shēng",
+    "english": "international student",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "学生",
+    "pinyin": "xué sheng",
+    "english": "student",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "数学",
+    "pinyin": "shù xué",
+    "english": "math",
+    "lesson": "1-4"
+  },
+  {
+    "chinese": "中学生",
+    "pinyin": "zhōng xué shēng",
+    "english": "middle school student",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "学校",
+    "pinyin": "xué xiào",
+    "english": "school",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "小学",
+    "pinyin": "xiǎo xué",
+    "english": "elementary school",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "中学",
+    "pinyin": "zhōng xué",
+    "english": "middle school",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "学",
+    "pinyin": "xué",
+    "english": "learn",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "心理学",
+    "pinyin": "xīn lǐ xué",
+    "english": "psychology",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "化学",
+    "pinyin": "huà xué",
+    "english": "chemistry",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "医生",
+    "pinyin": "yī shēng",
+    "english": "doctor",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "生活",
+    "pinyin": "shēng huó",
+    "english": "live/living",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "先生",
+    "pinyin": "xiān sheng",
+    "english": "Mr./Sir",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "生气",
+    "pinyin": "shēng qì",
+    "english": "angry",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "生菜",
+    "pinyin": "shēng cài",
+    "english": "lettuce",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "生物",
+    "pinyin": "shēng wù",
+    "english": "biology",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "研究生",
+    "pinyin": "yán jiū shēng",
+    "english": "graduate studies",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "生",
+    "pinyin": "shēng",
+    "english": "give birth",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "奖",
+    "pinyin": "jiǎng",
+    "english": "award",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "德国",
+    "pinyin": "dé guó",
+    "english": "Germany",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "研究",
+    "pinyin": "yán jiū",
+    "english": "research",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "实习",
+    "pinyin": "shí xí",
+    "english": "internship",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "实验室",
+    "pinyin": "shí yàn shì",
+    "english": "laboratory",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "卧室",
+    "pinyin": "wò shì",
+    "english": "bedroom",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "室友",
+    "pinyin": "shì yǒu",
+    "english": "roommate",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "办公室",
+    "pinyin": "bàn gōng shì",
+    "english": "office",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "信用卡",
+    "pinyin": "xìn yòng kǎ",
+    "english": "credit card",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "相信",
+    "pinyin": "xiāng xìn",
+    "english": "believe",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "推荐信",
+    "pinyin": "tuī jiàn xìn",
+    "english": "letter of recommendation",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "讨论",
+    "pinyin": "tǎo lùn",
+    "english": "discuss",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "应该",
+    "pinyin": "yīng gāi",
+    "english": "should",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "该",
+    "pinyin": "gāi",
+    "english": "should (informal)",
+    "lesson": "3-18"
+  },
+  {
+    "chinese": "怎么样",
+    "pinyin": "zěn me yàng",
+    "english": "how about that",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "怎么办",
+    "pinyin": "zěn me bàn",
+    "english": "what should I do",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "怎么走",
+    "pinyin": "zěn me zǒu",
+    "english": "how do I get to",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "怎么",
+    "pinyin": "zěn me",
+    "english": "how/so",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "多久",
+    "pinyin": "duō jiǔ",
+    "english": "how long",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "分享",
+    "pinyin": "fēn xiǎng",
+    "english": "share",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "享受",
+    "pinyin": "xiǎng shòu",
+    "english": "enjoy",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "什么",
+    "pinyin": "shén me",
+    "english": "what",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "简单",
+    "pinyin": "jiǎn dān",
+    "english": "simple",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "单身",
+    "pinyin": "dān shēn",
+    "english": "single",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "兴奋",
+    "pinyin": "xīng fèn",
+    "english": "excited",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "很高兴认识你",
+    "pinyin": "hěn gāo xìng rèn shi nǐ",
+    "english": "nice to meet you",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "兴趣",
+    "pinyin": "xìng qù",
+    "english": "interest",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "有兴趣",
+    "pinyin": "yǒu xìng qù",
+    "english": "interested in",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "手表",
+    "pinyin": "shǒu biǎo",
+    "english": "watch",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "表哥",
+    "pinyin": "biǎo gē",
+    "english": "cousin (m)",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "表妹",
+    "pinyin": "biǎo mèi",
+    "english": "cousin (f)",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "表姐",
+    "pinyin": "biǎo jiě",
+    "english": "cousin (older f)",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "音乐",
+    "pinyin": "yīn yuè",
+    "english": "music",
+    "lesson": "1-4"
+  },
+  {
+    "chinese": "俱乐部",
+    "pinyin": "jù lè bù",
+    "english": "club",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "可乐",
+    "pinyin": "kě lè",
+    "english": "cola",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "快乐",
+    "pinyin": "kuài lè",
+    "english": "happy/joyful",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "乐队",
+    "pinyin": "yuè duì",
+    "english": "band",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "音乐节",
+    "pinyin": "yīn yuè jié",
+    "english": "music festival",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "乐器",
+    "pinyin": "yuè qì",
+    "english": "instrument",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "刚刚",
+    "pinyin": "gāng gang",
+    "english": "just",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "刚才",
+    "pinyin": "gāng cái",
+    "english": "just now",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "完美",
+    "pinyin": "wán měi",
+    "english": "perfect",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "菜",
+    "pinyin": "cài",
+    "english": "cuisine/dish",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "蔬菜",
+    "pinyin": "shū cài",
+    "english": "vegetable",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "点菜",
+    "pinyin": "diǎn cài",
+    "english": "order food",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "菜市场",
+    "pinyin": "cài shì chǎng",
+    "english": "market",
+    "lesson": "3-14"
+  },
+  {
+    "chinese": "白菜",
+    "pinyin": "bái cài",
+    "english": "cabbage",
+    "lesson": "3-14"
+  },
+  {
+    "chinese": "菜谱",
+    "pinyin": "cài pǔ",
+    "english": "recipe",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "奶油",
+    "pinyin": "nǎi yóu",
+    "english": "cream",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "油",
+    "pinyin": "yóu",
+    "english": "oil",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "酱油",
+    "pinyin": "jiàng yóu",
+    "english": "soy sauce",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "肉",
+    "pinyin": "ròu",
+    "english": "meat",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "鸡肉",
+    "pinyin": "jī ròu",
+    "english": "chicken",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "牛肉",
+    "pinyin": "niú ròu",
+    "english": "beef",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "猪肉",
+    "pinyin": "zhū ròu",
+    "english": "pork",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "胡萝卜",
+    "pinyin": "hú luó bo",
+    "english": "carrot",
+    "lesson": "3-14"
+  },
+  {
+    "chinese": "胡椒粉",
+    "pinyin": "hú jiāo fěn",
+    "english": "pepper",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "勺子",
+    "pinyin": "sháo zi",
+    "english": "spoon",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "勺",
+    "pinyin": "sháo",
+    "english": "spoonful",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "总是",
+    "pinyin": "zǒng shì",
+    "english": "always",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "幽默",
+    "pinyin": "yōu mò",
+    "english": "humorous",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "笑",
+    "pinyin": "xiào",
+    "english": "laugh",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "短信",
+    "pinyin": "duǎn xìn",
+    "english": "text message",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "因为",
+    "pinyin": "yīn wèi",
+    "english": "because",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "外",
+    "pinyin": "wài",
+    "english": "outer",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "外国人",
+    "pinyin": "wài guó rén",
+    "english": "foreigner",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "美国",
+    "pinyin": "měi guó",
+    "english": "America",
+    "lesson": "1-2"
+  },
+  {
+    "chinese": "中国",
+    "pinyin": "zhōng guó",
+    "english": "China",
+    "lesson": "1-2"
+  },
+  {
+    "chinese": "韩国",
+    "pinyin": "hán guó",
+    "english": "South Korea",
+    "lesson": "1-2"
+  },
+  {
+    "chinese": "英国",
+    "pinyin": "yīng guó",
+    "english": "the UK",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "泰国",
+    "pinyin": "tài guó",
+    "english": "Thailand",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "法国",
+    "pinyin": "fǎ guó",
+    "english": "France",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "人们",
+    "pinyin": "rén men",
+    "english": "people",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "人",
+    "pinyin": "rén",
+    "english": "person",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "每个人",
+    "pinyin": "měi gè rén",
+    "english": "everyone (individual)",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "纽约",
+    "pinyin": "niǔ yuē",
+    "english": "New York",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "约会",
+    "pinyin": "yuē huì",
+    "english": "date/dating",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "听",
+    "pinyin": "tīng",
+    "english": "to listen",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "好听",
+    "pinyin": "hǎo tīng",
+    "english": "pleasant to listen to",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "听说",
+    "pinyin": "tīng shuō",
+    "english": "heard",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "说",
+    "pinyin": "shuō",
+    "english": "speak",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "小说",
+    "pinyin": "xiǎo shuō",
+    "english": "novel",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "穿",
+    "pinyin": "chuān",
+    "english": "wear",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "记者",
+    "pinyin": "jì zhě",
+    "english": "journalist",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "或者",
+    "pinyin": "huò zhě",
+    "english": "or (as statement)",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "作者",
+    "pinyin": "zuò zhě",
+    "english": "author",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "认识",
+    "pinyin": "rèn shi",
+    "english": "to meet",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "认真",
+    "pinyin": "rèn zhēn",
+    "english": "serious",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "真的吗",
+    "pinyin": "zhēn de ma",
+    "english": "really?",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "真",
+    "pinyin": "zhēn",
+    "english": "really",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "english": "hello",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "好玩儿",
+    "pinyin": "hǎo wán r",
+    "english": "fun",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "好吃",
+    "pinyin": "hǎo chī",
+    "english": "delicious (food)",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "好的",
+    "pinyin": "hǎo de",
+    "english": "okay, all right",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "好看",
+    "pinyin": "hǎo kàn",
+    "english": "beautiful/nice to watch",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "好喝",
+    "pinyin": "hǎo hē",
+    "english": "delicious (drink)",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "好啊",
+    "pinyin": "hǎo ā",
+    "english": "sure",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "english": "good",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "好像",
+    "pinyin": "hǎo xiàng",
+    "english": "seems to",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "好朋友",
+    "pinyin": "hǎo péng you",
+    "english": "good friend",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "爱好",
+    "pinyin": "ài hào",
+    "english": "hobby",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "最好",
+    "pinyin": "zuì hǎo",
+    "english": "had better",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "好吗",
+    "pinyin": "hǎo ma",
+    "english": "okay?",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "您好",
+    "pinyin": "nín hǎo",
+    "english": "hello (formal)",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "好吧",
+    "pinyin": "hǎo bā",
+    "english": "alright then",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "好巧啊",
+    "pinyin": "hǎo qiǎo ā",
+    "english": "What a coincidence",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "好用",
+    "pinyin": "hǎo yòng",
+    "english": "easy to use",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "好久不见",
+    "pinyin": "hǎo jiǔ bu jiàn",
+    "english": "long time no see",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "好奇",
+    "pinyin": "hào qí",
+    "english": "curious",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "奇怪",
+    "pinyin": "qí guài",
+    "english": "strange",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "爱情",
+    "pinyin": "ài qíng",
+    "english": "romance",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "可爱",
+    "pinyin": "kě ài",
+    "english": "adorable",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "爱",
+    "pinyin": "ài",
+    "english": "love",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "离",
+    "pinyin": "lí",
+    "english": "from",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "离开",
+    "pinyin": "lí kāi",
+    "english": "to leave",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "开心",
+    "pinyin": "kāi xīn",
+    "english": "happy/excited",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "开始",
+    "pinyin": "kāi shǐ",
+    "english": "start",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "开",
+    "pinyin": "kāi",
+    "english": "open",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "开朗",
+    "pinyin": "kāi lǎng",
+    "english": "cheerful",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "前男友",
+    "pinyin": "qián nán yǒu",
+    "english": "ex-boyfriend",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "朋友",
+    "pinyin": "péng you",
+    "english": "friend",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "老朋友",
+    "pinyin": "lǎo péng you",
+    "english": "old friend",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "男朋友",
+    "pinyin": "nán péng you",
+    "english": "boyfriend",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "女朋友",
+    "pinyin": "nǚ péng you",
+    "english": "girlfriend",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "积分",
+    "pinyin": "jī fēn",
+    "english": "point",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "分钟",
+    "pinyin": "fēn zhōng",
+    "english": "minute",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "分手",
+    "pinyin": "fēn shǒu",
+    "english": "break up",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "洗手间",
+    "pinyin": "xǐ shǒu jiān",
+    "english": "bathroom",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "手",
+    "pinyin": "shǒu",
+    "english": "hand",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "歌手",
+    "pinyin": "gē shǒu",
+    "english": "singer",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "手套",
+    "pinyin": "shǒu tào",
+    "english": "glove",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "吃",
+    "pinyin": "chī",
+    "english": "to eat",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "难吃",
+    "pinyin": "nán chī",
+    "english": "unpleasant",
+    "lesson": "3-14"
+  },
+  {
+    "chinese": "吃惊",
+    "pinyin": "chī jīng",
+    "english": "neutral/bad surprise",
+    "lesson": "3-24"
+  },
+  {
+    "chinese": "中午",
+    "pinyin": "zhōng wǔ",
+    "english": "noon",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "english": "you",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "你们",
+    "pinyin": "nǐ men",
+    "english": "you all",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "你呢",
+    "pinyin": "nǐ ne",
+    "english": "how about you",
+    "lesson": "1-2"
+  },
+  {
+    "chinese": "初中",
+    "pinyin": "chū zhōng",
+    "english": "junior high school",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "市中心",
+    "pinyin": "shì zhōng xīn",
+    "english": "downtown",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "english": "I / me",
+    "lesson": "1-2"
+  },
+  {
+    "chinese": "我们",
+    "pinyin": "wǒ men",
+    "english": "we",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "我叫",
+    "pinyin": "wǒ jiào",
+    "english": "to be called",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "高中",
+    "pinyin": "gāo zhōng",
+    "english": "high school",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "运动",
+    "pinyin": "yùn dòng",
+    "english": "exercise/sport",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "运动鞋",
+    "pinyin": "yùn dòng xié",
+    "english": "sneaker",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "运动员",
+    "pinyin": "yùn dòng yuán",
+    "english": "athlete",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "幸运",
+    "pinyin": "xìng yùn",
+    "english": "lucky",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "酒店",
+    "pinyin": "jiǔ diàn",
+    "english": "hotel",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "酒",
+    "pinyin": "jiǔ",
+    "english": "alcohol",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "啤酒",
+    "pinyin": "pí jiǔ",
+    "english": "beer",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "酒吧",
+    "pinyin": "jiǔ bā",
+    "english": "bar",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "想法",
+    "pinyin": "xiǎng fǎ",
+    "english": "thought",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "毛衣",
+    "pinyin": "máo yī",
+    "english": "sweater",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "羽毛球",
+    "pinyin": "yǔ máo qiú",
+    "english": "badminton",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "地图",
+    "pinyin": "dì tú",
+    "english": "map",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "最",
+    "pinyin": "zuì",
+    "english": "most",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "最喜欢的",
+    "pinyin": "zuì xǐ huan de",
+    "english": "favorite",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "地铁",
+    "pinyin": "dì tiě",
+    "english": "subway",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "地",
+    "pinyin": "dì",
+    "english": "floor",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "地方",
+    "pinyin": "dì fang",
+    "english": "place",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "地铁站",
+    "pinyin": "dì tiě zhàn",
+    "english": "subway station",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "地址",
+    "pinyin": "dì zhǐ",
+    "english": "address",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "地道",
+    "pinyin": "dì dào",
+    "english": "authentic",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "地理",
+    "pinyin": "dì lǐ",
+    "english": "geography",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "困",
+    "pinyin": "kùn",
+    "english": "sleepy",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "鸡蛋",
+    "pinyin": "jī dàn",
+    "english": "egg",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "卖",
+    "pinyin": "mài",
+    "english": "sell",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "态度",
+    "pinyin": "tài du",
+    "english": "attitude",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "质量",
+    "pinyin": "zhì liàng",
+    "english": "quality",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "修",
+    "pinyin": "xiū",
+    "english": "repair",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "饼干",
+    "pinyin": "bǐng gān",
+    "english": "cookie",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "干净",
+    "pinyin": "gān jìng",
+    "english": "clean",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "干",
+    "pinyin": "gàn",
+    "english": "dry",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "面条",
+    "pinyin": "miàn tiáo",
+    "english": "noodle",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "条",
+    "pinyin": "tiáo",
+    "english": "[m] string-like things",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "篮球",
+    "pinyin": "lán qiú",
+    "english": "basketball",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "排球",
+    "pinyin": "pái qiú",
+    "english": "volleyball",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "网球",
+    "pinyin": "wǎng qiú",
+    "english": "tennis",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "棒球",
+    "pinyin": "bàng qiú",
+    "english": "baseball",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "足球",
+    "pinyin": "zú qiú",
+    "english": "soccer",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "气球",
+    "pinyin": "qì qiú",
+    "english": "balloon",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "乒乓球",
+    "pinyin": "pīng pāng qiú",
+    "english": "ping pong",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "医院",
+    "pinyin": "yī yuàn",
+    "english": "hospital",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "电影院",
+    "pinyin": "diàn yǐng yuàn",
+    "english": "movie theater",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "院子",
+    "pinyin": "yuàn zi",
+    "english": "yard",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "辣",
+    "pinyin": "là",
+    "english": "spicy",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "辣椒",
+    "pinyin": "là jiāo",
+    "english": "chili pepper",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "旁边",
+    "pinyin": "páng biān",
+    "english": "beside",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "海边",
+    "pinyin": "hǎi biān",
+    "english": "beach",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "左边",
+    "pinyin": "zuǒ bian",
+    "english": "left side",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "漂亮",
+    "pinyin": "piào liang",
+    "english": "beautiful",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "亮",
+    "pinyin": "liàng",
+    "english": "bright",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "电视",
+    "pinyin": "diàn shì",
+    "english": "TV",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "电影",
+    "pinyin": "diàn yǐng",
+    "english": "movie",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "电脑",
+    "pinyin": "diàn nǎo",
+    "english": "computer",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "电话",
+    "pinyin": "diàn huà",
+    "english": "make a phone call",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "电视剧",
+    "pinyin": "diàn shì jù",
+    "english": "TV series",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "电梯",
+    "pinyin": "diàn tī",
+    "english": "elevator",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "充电",
+    "pinyin": "chōng diàn",
+    "english": "charge",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "电话卡",
+    "pinyin": "diàn huà kǎ",
+    "english": "SIM card",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "没电",
+    "pinyin": "méi diàn",
+    "english": "out of battery",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "练习",
+    "pinyin": "liàn xí",
+    "english": "practice",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "复习",
+    "pinyin": "fù xí",
+    "english": "review",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "习惯",
+    "pinyin": "xí guàn",
+    "english": "habit",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "着急",
+    "pinyin": "zhāo jí",
+    "english": "anxious/impatient",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "鞋",
+    "pinyin": "xié",
+    "english": "shoe",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "高跟鞋",
+    "pinyin": "gāo gēn xié",
+    "english": "high heel",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "沙拉",
+    "pinyin": "shā lā",
+    "english": "salad",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "拉面",
+    "pinyin": "lā miàn",
+    "english": "ramen",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "小提琴",
+    "pinyin": "xiǎo tí qín",
+    "english": "violin",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "拉",
+    "pinyin": "lā",
+    "english": "to pull/play",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "弹",
+    "pinyin": "tán",
+    "english": "play (music)",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "钢琴",
+    "pinyin": "gāng qín",
+    "english": "piano",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "麻将",
+    "pinyin": "má jiàng",
+    "english": "mahjong",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "室内",
+    "pinyin": "shì nèi",
+    "english": "indoors",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "社区中心",
+    "pinyin": "shè qū zhōng xīn",
+    "english": "community center",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "下棋",
+    "pinyin": "xià qí",
+    "english": "play chess",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "太极",
+    "pinyin": "tài jí",
+    "english": "Tai Chi",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "友好",
+    "pinyin": "yǒu hǎo",
+    "english": "friendly",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "他们",
+    "pinyin": "tā men",
+    "english": "they",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "们",
+    "pinyin": "men",
+    "english": "(plural for people)",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "上个",
+    "pinyin": "shàng ge",
+    "english": "last (time)",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "个",
+    "pinyin": "gè",
+    "english": "(m) general objects",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "每个月",
+    "pinyin": "měi gè yuè",
+    "english": "every month",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "每个",
+    "pinyin": "měi gè",
+    "english": "every",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "今晚",
+    "pinyin": "jīn wǎn",
+    "english": "tonight",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "昨晚",
+    "pinyin": "zuó wǎn",
+    "english": "last night",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "晚点儿",
+    "pinyin": "wǎn diǎn r",
+    "english": "a bit later",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "晚",
+    "pinyin": "wǎn",
+    "english": "late",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "声音",
+    "pinyin": "shēng yīn",
+    "english": "sound",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "全家",
+    "pinyin": "quán jiā",
+    "english": "family",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "晚上好",
+    "pinyin": "wǎn shang hǎo",
+    "english": "Good evening",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "音乐家",
+    "pinyin": "yīn yuè jiā",
+    "english": "musician",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "空调",
+    "pinyin": "kōng tiáo",
+    "english": "air conditioner",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "声调",
+    "pinyin": "shēng diào",
+    "english": "tone",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "流利",
+    "pinyin": "liú lì",
+    "english": "fluent",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "外地人",
+    "pinyin": "wài dì rén",
+    "english": "outsider",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "小区",
+    "pinyin": "xiǎo qū",
+    "english": "residential complex",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "担心",
+    "pinyin": "dān xīn",
+    "english": "worry",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "下雪",
+    "pinyin": "xià xuě",
+    "english": "snow",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "下山",
+    "pinyin": "xià shān",
+    "english": "descend",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "太",
+    "pinyin": "tài",
+    "english": "too",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "不太",
+    "pinyin": "bú tài",
+    "english": "not too ..",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "味道",
+    "pinyin": "wèi dao",
+    "english": "taste",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "不知道",
+    "pinyin": "bù zhī dao",
+    "english": "not know",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "知道",
+    "pinyin": "zhī dào",
+    "english": "know",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "道",
+    "pinyin": "dào",
+    "english": "(m) dishes",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "梦想",
+    "pinyin": "mèng xiǎng",
+    "english": "dream",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "风景",
+    "pinyin": "fēng jǐng",
+    "english": "landscape",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "考",
+    "pinyin": "kǎo",
+    "english": "test",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "考虑",
+    "pinyin": "kǎo lǜ",
+    "english": "consider",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "考试",
+    "pinyin": "kǎo shì",
+    "english": "exam",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "公司",
+    "pinyin": "gōng sī",
+    "english": "company",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "寿司",
+    "pinyin": "shòu sī",
+    "english": "sushi",
+    "lesson": "3-5"
+  },
+  {
+    "chinese": "玩",
+    "pinyin": "wán",
+    "english": "play",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "玩具",
+    "pinyin": "wán jù",
+    "english": "toy",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "裤子",
+    "pinyin": "kù zi",
+    "english": "pants",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "高",
+    "pinyin": "gāo",
+    "english": "tall",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "多高",
+    "pinyin": "duō gāo",
+    "english": "how tall",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "高铁",
+    "pinyin": "gāo tiě",
+    "english": "high-speed train",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "作业",
+    "pinyin": "zuò yè",
+    "english": "homework",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "毕业典礼",
+    "pinyin": "bì yè diǎn lǐ",
+    "english": "graduation ceremony",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "专业",
+    "pinyin": "zhuān yè",
+    "english": "major",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "动物园",
+    "pinyin": "dòng wù yuán",
+    "english": "zoo",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "博物馆",
+    "pinyin": "bó wù guǎn",
+    "english": "museum",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "礼物",
+    "pinyin": "lǐ wù",
+    "english": "gift",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "动物",
+    "pinyin": "dòng wù",
+    "english": "animal",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "宠物",
+    "pinyin": "chǒng wù",
+    "english": "pet",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "年级",
+    "pinyin": "nián jí",
+    "english": "grade/school class",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "恭喜",
+    "pinyin": "gōng xǐ",
+    "english": "congratulations",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "故事",
+    "pinyin": "gù shi",
+    "english": "story",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "日历",
+    "pinyin": "rì lì",
+    "english": "calendar",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "有事儿",
+    "pinyin": "yǒu shì r",
+    "english": "busy / have some matter",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "每周",
+    "pinyin": "měi zhōu",
+    "english": "every week",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "每天",
+    "pinyin": "měi tiān",
+    "english": "every day",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "没事儿",
+    "pinyin": "méi shì r",
+    "english": "no problem",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "没事吧",
+    "pinyin": "méi shì bā",
+    "english": "alright",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "词典",
+    "pinyin": "cí diǎn",
+    "english": "dictionary",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "零",
+    "pinyin": "líng",
+    "english": "zero",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "护照",
+    "pinyin": "hù zhào",
+    "english": "passport",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "厨房",
+    "pinyin": "chú fáng",
+    "english": "kitchen",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "弟弟",
+    "pinyin": "dì di",
+    "english": "younger brother",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "情节",
+    "pinyin": "qíng jié",
+    "english": "plot",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "房子",
+    "pinyin": "fáng zi",
+    "english": "house",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "房间",
+    "pinyin": "fáng jiān",
+    "english": "room",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "春节",
+    "pinyin": "chūn jié",
+    "english": "Spring Festival",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "熊猫",
+    "pinyin": "xióng māo",
+    "english": "panda",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "猫",
+    "pinyin": "māo",
+    "english": "cat",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "聪明",
+    "pinyin": "cōng ming",
+    "english": "intelligent",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "进",
+    "pinyin": "jìn",
+    "english": "enter",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "盘子",
+    "pinyin": "pán zi",
+    "english": "plate",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "飞盘",
+    "pinyin": "fēi pán",
+    "english": "frisbee",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "睡觉",
+    "pinyin": "shuì jiào",
+    "english": "sleep",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "起飞",
+    "pinyin": "qǐ fēi",
+    "english": "take off",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "吸尘器",
+    "pinyin": "xī chén qì",
+    "english": "vacuum cleaner",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "重",
+    "pinyin": "chóng",
+    "english": "heavy",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "重要",
+    "pinyin": "zhòng yào",
+    "english": "important",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "借",
+    "pinyin": "jiè",
+    "english": "borrow",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "带",
+    "pinyin": "dài",
+    "english": "bring",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "领带",
+    "pinyin": "lǐng dài",
+    "english": "tie",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "皮带",
+    "pinyin": "pí dài",
+    "english": "belt",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "火锅",
+    "pinyin": "huǒ guō",
+    "english": "hot pot",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "公园",
+    "pinyin": "gōng yuán",
+    "english": "park",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "校园",
+    "pinyin": "xiào yuán",
+    "english": "campus",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "花园",
+    "pinyin": "huā yuán",
+    "english": "garden",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "老师",
+    "pinyin": "lǎo shī",
+    "english": "teacher",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "老公",
+    "pinyin": "lǎo gōng",
+    "english": "husband",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "老婆",
+    "pinyin": "lǎo po",
+    "english": "wife",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "老板",
+    "pinyin": "lǎo bǎn",
+    "english": "boss",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "老",
+    "pinyin": "lǎo",
+    "english": "old (honorable)",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "简历",
+    "pinyin": "jiǎn lì",
+    "english": "resume",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "长城",
+    "pinyin": "cháng chéng",
+    "english": "Great Wall",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "长",
+    "pinyin": "zhǎng",
+    "english": "long",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "擅长",
+    "pinyin": "shàn cháng",
+    "english": "excel",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "春天",
+    "pinyin": "chūn tiān",
+    "english": "spring",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "自己",
+    "pinyin": "zì jǐ",
+    "english": "oneself",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "女士",
+    "pinyin": "nǚ shì",
+    "english": "Madam",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "努力",
+    "pinyin": "nǔ lì",
+    "english": "hardworking",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "工资",
+    "pinyin": "gōng zī",
+    "english": "salary",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "挑战",
+    "pinyin": "tiǎo zhàn",
+    "english": "challenge",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "希望",
+    "pinyin": "xī wàng",
+    "english": "hope",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "巧克力",
+    "pinyin": "qiǎo kè lì",
+    "english": "chocolate",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "经验",
+    "pinyin": "jīng yàn",
+    "english": "experience (have the ..)",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "还",
+    "pinyin": "hái",
+    "english": "still/also/return/yet",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "还没有",
+    "pinyin": "hái méi yǒu",
+    "english": "not yet",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "物理",
+    "pinyin": "wù lǐ",
+    "english": "physics",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "不但",
+    "pinyin": "bú dàn",
+    "english": "not only",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "上一",
+    "pinyin": "shàng yī",
+    "english": "last (previous)",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "回答",
+    "pinyin": "huí dá",
+    "english": "answer",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "员工",
+    "pinyin": "yuán gōng",
+    "english": "employee",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "工作",
+    "pinyin": "gōng zuò",
+    "english": "job",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "内",
+    "pinyin": "nèi",
+    "english": "within",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "结束",
+    "pinyin": "jié shù",
+    "english": "To end",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "结局",
+    "pinyin": "jié jì",
+    "english": "ending",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "结果",
+    "pinyin": "jiē guǒ",
+    "english": "result",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "果汁",
+    "pinyin": "guǒ zhī",
+    "english": "juice",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "苹果",
+    "pinyin": "píng guǒ",
+    "english": "apple",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "果酱",
+    "pinyin": "guǒ jiàng",
+    "english": "jam",
+    "lesson": "3-14"
+  },
+  {
+    "chinese": "非常",
+    "pinyin": "fēi cháng",
+    "english": "extremely",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "严格",
+    "pinyin": "yán gé",
+    "english": "strict",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "价格",
+    "pinyin": "jià gé",
+    "english": "price",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "性格",
+    "pinyin": "xìng gé",
+    "english": "personality",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "像",
+    "pinyin": "xiàng",
+    "english": "look like",
+    "lesson": "3-12"
+  },
+  {
+    "chinese": "有货",
+    "pinyin": "yǒu huò",
+    "english": "available",
+    "lesson": "3-4"
+  },
+  {
+    "chinese": "丢",
+    "pinyin": "diū",
+    "english": "lose",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "脸",
+    "pinyin": "liǎn",
+    "english": "face",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "已经",
+    "pinyin": "yǐ jīng",
+    "english": "already",
+    "lesson": "3-27"
+  },
+  {
+    "chinese": "药店",
+    "pinyin": "yào diàn",
+    "english": "pharmacy",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "店",
+    "pinyin": "diàn",
+    "english": "store",
+    "lesson": "3-27"
+  },
+  {
+    "chinese": "不舒服",
+    "pinyin": "bù shū fu",
+    "english": "uncomfortable",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "服务",
+    "pinyin": "fú wù",
+    "english": "service",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "服务台",
+    "pinyin": "fú wù tái",
+    "english": "information desk",
+    "lesson": "3-27"
+  },
+  {
+    "chinese": "区",
+    "pinyin": "ōu",
+    "english": "section/district",
+    "lesson": "3-27"
+  },
+  {
+    "chinese": "试衣间",
+    "pinyin": "shì yī jiān",
+    "english": "fitting room",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "面试",
+    "pinyin": "miàn shì",
+    "english": "interview",
+    "lesson": "3-3"
+  },
+  {
+    "chinese": "试穿",
+    "pinyin": "shì chuān",
+    "english": "try on",
+    "lesson": "3-27"
+  },
+  {
+    "chinese": "粉丝",
+    "pinyin": "fěn sī",
+    "english": "fan (of..)",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "粉色",
+    "pinyin": "fěn sè",
+    "english": "pink",
+    "lesson": "3-27"
+  },
+  {
+    "chinese": "女装",
+    "pinyin": "nǚ zhuāng",
+    "english": "women's clothing",
+    "lesson": "3-27"
+  },
+  {
+    "chinese": "小组",
+    "pinyin": "xiǎo zǔ",
+    "english": "group",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "快",
+    "pinyin": "kuài",
+    "english": "Fast / about to",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "快餐",
+    "pinyin": "kuài cān",
+    "english": "fast food",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "周末",
+    "pinyin": "zhōu mò",
+    "english": "weekend",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "有空儿",
+    "pinyin": "yǒu kòng r",
+    "english": "have free time",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "公交站",
+    "pinyin": "gōng jiāo zhàn",
+    "english": "bus stop",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "交",
+    "pinyin": "jiāo",
+    "english": "deliver / pay",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "交通",
+    "pinyin": "jiāo tōng",
+    "english": "transportation",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "english": "Take / sit",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "逛街",
+    "pinyin": "guàng jiē",
+    "english": "shopping",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "街",
+    "pinyin": "jiē",
+    "english": "street",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "受伤",
+    "pinyin": "shòu shāng",
+    "english": "injure",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "警察",
+    "pinyin": "jǐng chá",
+    "english": "police",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "腿",
+    "pinyin": "tuǐ",
+    "english": "leg",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "有人",
+    "pinyin": "yǒu rén",
+    "english": "someone",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "摩托车",
+    "pinyin": "mó tuō chē",
+    "english": "motorcycle",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "摔倒",
+    "pinyin": "shuāi dǎo",
+    "english": "fall",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "受欢迎",
+    "pinyin": "shòu huān yíng",
+    "english": "popular",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "创口贴",
+    "pinyin": "chuāng kǒu tiē",
+    "english": "band-aid",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "还好",
+    "pinyin": "hái hǎo",
+    "english": "still good",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "左",
+    "pinyin": "zuǒ",
+    "english": "left",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "听到",
+    "pinyin": "tīng dào",
+    "english": "to hear",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "迟到",
+    "pinyin": "chí dào",
+    "english": "be late",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "救护车",
+    "pinyin": "jiù hù chē",
+    "english": "ambulance",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "手术",
+    "pinyin": "shǒu shù",
+    "english": "surgery",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "通知",
+    "pinyin": "tōng zhī",
+    "english": "inform",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "座位",
+    "pinyin": "zuò wèi",
+    "english": "seat",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "位",
+    "pinyin": "wèi",
+    "english": "polite measure word for people",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "充电器",
+    "pinyin": "chōng diàn qì",
+    "english": "charger",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "呢",
+    "pinyin": "ne",
+    "english": "used to ask back",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "律师",
+    "pinyin": "lǜ shī",
+    "english": "lawyer",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "课",
+    "pinyin": "kè",
+    "english": "class",
+    "lesson": "1-4"
+  },
+  {
+    "chinese": "爸爸",
+    "pinyin": "bà ba",
+    "english": "dad",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "常常",
+    "pinyin": "cháng cháng",
+    "english": "frequently",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "不常",
+    "pinyin": "bù cháng",
+    "english": "infrequently",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "非常感谢",
+    "pinyin": "fēi cháng gǎn xiè",
+    "english": "Thank you very much",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "又",
+    "pinyin": "yòu",
+    "english": "again",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "口罩",
+    "pinyin": "kǒu zhào",
+    "english": "mask",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "咳嗽",
+    "pinyin": "ké sòu",
+    "english": "cough",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "病",
+    "pinyin": "bìng",
+    "english": "disease / to fall ill",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "生病",
+    "pinyin": "shēng bìng",
+    "english": "get sick",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "照顾",
+    "pinyin": "zhào gu",
+    "english": "take care of",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "压力很大",
+    "pinyin": "yā lì hěn dà",
+    "english": "stressed",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "所有",
+    "pinyin": "suǒ yǒu",
+    "english": "all / every",
+    "lesson": "3-6"
+  },
+  {
+    "chinese": "所以",
+    "pinyin": "suǒ yǐ",
+    "english": "so",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "可以",
+    "pinyin": "kě yǐ",
+    "english": "can",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "晚点",
+    "pinyin": "wǎn diǎn",
+    "english": "delay",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "有点儿",
+    "pinyin": "yǒu diǎn r",
+    "english": "a little",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "点",
+    "pinyin": "diǎn",
+    "english": "a bit / order / point",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "早点儿",
+    "pinyin": "zǎo diǎn ér",
+    "english": "earlier",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "甜点",
+    "pinyin": "tián diǎn",
+    "english": "dessert",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "闹钟",
+    "pinyin": "nào zhōng",
+    "english": "alarm clock",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "感冒",
+    "pinyin": "gǎn mào",
+    "english": "catch a cold",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "口",
+    "pinyin": "kǒu",
+    "english": "measure word for people",
+    "lesson": "2-22"
+  },
+  {
+    "chinese": "没胃口",
+    "pinyin": "méi wèi kǒu",
+    "english": "have no appetite",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "在",
+    "pinyin": "zài",
+    "english": "is/at",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "现在",
+    "pinyin": "xiàn zài",
+    "english": "now",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "在家办公",
+    "pinyin": "zài jiā bàn gōng",
+    "english": "work from home",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "公里",
+    "pinyin": "gōng lǐ",
+    "english": "kilometer",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "方便",
+    "pinyin": "fāng biàn",
+    "english": "convenient",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "方便面",
+    "pinyin": "fāng biàn miàn",
+    "english": "instant noodles",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "便宜",
+    "pinyin": "pián yi",
+    "english": "cheap",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "过敏",
+    "pinyin": "guò mǐn",
+    "english": "have an allergic reaction",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "地下",
+    "pinyin": "dì xià",
+    "english": "underground",
+    "lesson": "3-27"
+  },
+  {
+    "chinese": "下次吧",
+    "pinyin": "xià cì bā",
+    "english": "next time!",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "吧",
+    "pinyin": "ba",
+    "english": "indicating suggestions",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "心情",
+    "pinyin": "xīn qíng",
+    "english": "mood",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "脏",
+    "pinyin": "zāng",
+    "english": "dirty",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "邻居",
+    "pinyin": "lín jū",
+    "english": "neighbor",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "找",
+    "pinyin": "zhǎo",
+    "english": "search / look for",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "那",
+    "pinyin": "nà",
+    "english": "that",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "那些",
+    "pinyin": "nà xiē",
+    "english": "those",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "那里",
+    "pinyin": "nà li",
+    "english": "there",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "椅子",
+    "pinyin": "yǐ zi",
+    "english": "chair",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "衣服",
+    "pinyin": "yī fu",
+    "english": "clothes",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "连衣裙",
+    "pinyin": "lián yī qún",
+    "english": "dress",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "雨衣",
+    "pinyin": "yǔ yī",
+    "english": "raincoat",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "衣柜",
+    "pinyin": "yī guì",
+    "english": "wardrobe",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "都",
+    "pinyin": "dōu",
+    "english": "all / everyone",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "拖把",
+    "pinyin": "tuō bǎ",
+    "english": "mop",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "把",
+    "pinyin": "bǎ",
+    "english": "introducing objects",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "儿子",
+    "pinyin": "ér zi",
+    "english": "son",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "桌子",
+    "pinyin": "zhuō zi",
+    "english": "table",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "饺子",
+    "pinyin": "jiǎo zi",
+    "english": "dumpling",
+    "lesson": "2-3"
+  },
+  {
+    "chinese": "杯子",
+    "pinyin": "bēi zi",
+    "english": "cup",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "兔子",
+    "pinyin": "tù zi",
+    "english": "rabbit",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "帽子",
+    "pinyin": "mào zi",
+    "english": "hat",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "筷子",
+    "pinyin": "kuài zi",
+    "english": "chopsticks",
+    "lesson": "2-7"
+  },
+  {
+    "chinese": "肚子",
+    "pinyin": "dù zi",
+    "english": "abdomen",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "袜子",
+    "pinyin": "wà zi",
+    "english": "sock",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "牌子",
+    "pinyin": "pái zi",
+    "english": "brand",
+    "lesson": "2-16"
+  },
+  {
+    "chinese": "镜子",
+    "pinyin": "jìng zi",
+    "english": "mirror",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "句子",
+    "pinyin": "jù zi",
+    "english": "sentence",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "例子",
+    "pinyin": "lì zi",
+    "english": "example",
+    "lesson": "3-8"
+  },
+  {
+    "chinese": "靴子",
+    "pinyin": "xuē zi",
+    "english": "boot",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "橙子",
+    "pinyin": "chéng zi",
+    "english": "orange",
+    "lesson": "3-14"
+  },
+  {
+    "chinese": "孩子",
+    "pinyin": "hái zi",
+    "english": "child",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "箱子",
+    "pinyin": "xiāng zi",
+    "english": "box",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "看",
+    "pinyin": "kàn",
+    "english": "to read / watch / look at",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "看见",
+    "pinyin": "kàn jiàn",
+    "english": "see",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "舒服",
+    "pinyin": "shū fu",
+    "english": "comfortable",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "扫",
+    "pinyin": "sǎo",
+    "english": "sweep",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "克",
+    "pinyin": "kè",
+    "english": "gram",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "english": "want",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "可怕",
+    "pinyin": "kě pà",
+    "english": "scary",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "狗",
+    "pinyin": "gǒu",
+    "english": "dog",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "姐姐",
+    "pinyin": "jiě jie",
+    "english": "sister",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "小姐",
+    "pinyin": "xiǎo jiě",
+    "english": "Miss",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "商场",
+    "pinyin": "shāng chǎng",
+    "english": "mall",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "操场",
+    "pinyin": "cāo chǎng",
+    "english": "playground",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "广场",
+    "pinyin": "guǎng chǎng",
+    "english": "square",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "哥哥",
+    "pinyin": "gē ge",
+    "english": "brother",
+    "lesson": "2-6"
+  },
+  {
+    "chinese": "好好休息",
+    "pinyin": "hǎo hǎo xiū xi",
+    "english": "get some good rest",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "冰",
+    "pinyin": "bīng",
+    "english": "ice",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "冰箱",
+    "pinyin": "bīng xiāng",
+    "english": "refrigerator",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "冰淇淋",
+    "pinyin": "bīng qí lín",
+    "english": "ice cream",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "对不对",
+    "pinyin": "duì bu duì",
+    "english": "right",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "不",
+    "pinyin": "bù",
+    "english": "no / negative",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "对不起",
+    "pinyin": "duì bu qǐ",
+    "english": "sorry",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "去",
+    "pinyin": "qù",
+    "english": "to go",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "女儿",
+    "pinyin": "nǚ ér",
+    "english": "daughter",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "女孩儿",
+    "pinyin": "nǚ hái r",
+    "english": "girl",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "画儿",
+    "pinyin": "huà r",
+    "english": "painting",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "对",
+    "pinyin": "duì",
+    "english": "correct",
+    "lesson": "1-3"
+  },
+  {
+    "chinese": "派对",
+    "pinyin": "pài duì",
+    "english": "party",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "对面",
+    "pinyin": "duì miàn",
+    "english": "across from",
+    "lesson": "2-15"
+  },
+  {
+    "chinese": "妹妹",
+    "pinyin": "mèi mei",
+    "english": "younger sister",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "早",
+    "pinyin": "zǎo",
+    "english": "early (in time)",
+    "lesson": "3-7"
+  },
+  {
+    "chinese": "帮助",
+    "pinyin": "bāng zhù",
+    "english": "to help",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "帮",
+    "pinyin": "bāng",
+    "english": "help",
+    "lesson": "2-24"
+  },
+  {
+    "chinese": "忙",
+    "pinyin": "máng",
+    "english": "busy",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "睡",
+    "pinyin": "shuì",
+    "english": "sleep (short form)",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "需要",
+    "pinyin": "xū yào",
+    "english": "need",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "喂",
+    "pinyin": "wéi",
+    "english": "hello (on the phone)",
+    "lesson": "2-8"
+  },
+  {
+    "chinese": "怎么写",
+    "pinyin": "zěn me xiě",
+    "english": "how to write",
+    "lesson": "3-25"
+  },
+  {
+    "chinese": "起床",
+    "pinyin": "qǐ chuáng",
+    "english": "get up",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "吉他",
+    "pinyin": "jí tā",
+    "english": "guitar",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "歌",
+    "pinyin": "gē",
+    "english": "song",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "唱歌",
+    "pinyin": "chàng gē",
+    "english": "sing a song",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "唱",
+    "pinyin": "chàng",
+    "english": "sing",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "教练",
+    "pinyin": "jiào liàn",
+    "english": "coach",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "航班",
+    "pinyin": "háng bān",
+    "english": "flight",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "牙",
+    "pinyin": "yá",
+    "english": "tooth",
+    "lesson": "2-23"
+  },
+  {
+    "chinese": "面包",
+    "pinyin": "miàn bāo",
+    "english": "bread",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "里面",
+    "pinyin": "lǐ miàn",
+    "english": "inside",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "喜欢",
+    "pinyin": "xǐ huan",
+    "english": "like",
+    "lesson": "1-4"
+  },
+  {
+    "chinese": "喜剧",
+    "pinyin": "xǐ jù",
+    "english": "comedy",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "惊喜",
+    "pinyin": "jīng xǐ",
+    "english": "positive surprise",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "欢迎",
+    "pinyin": "huān yíng",
+    "english": "welcome",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "欢迎光临",
+    "pinyin": "huān yíng guāng lín",
+    "english": "welcome to visit",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "他",
+    "pinyin": "tā",
+    "english": "he",
+    "lesson": "1-4"
+  },
+  {
+    "chinese": "她",
+    "pinyin": "tā",
+    "english": "she",
+    "lesson": "1-4"
+  },
+  {
+    "chinese": "妈妈",
+    "pinyin": "mā ma",
+    "english": "mother",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "公寓",
+    "pinyin": "gōng yù",
+    "english": "apartment",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "也",
+    "pinyin": "yě",
+    "english": "also",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "也许",
+    "pinyin": "yě xǔ",
+    "english": "may",
+    "lesson": "3-10"
+  },
+  {
+    "chinese": "超市",
+    "pinyin": "chāo shì",
+    "english": "supermarket",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "城市",
+    "pinyin": "chéng shì",
+    "english": "city",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "体育馆",
+    "pinyin": "tǐ yù guǎn",
+    "english": "gymnasium",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "english": "to buy",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "零食",
+    "pinyin": "líng shí",
+    "english": "snack",
+    "lesson": "1-6"
+  },
+  {
+    "chinese": "食堂",
+    "pinyin": "shí táng",
+    "english": "cafeteria",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "要",
+    "pinyin": "yào",
+    "english": "want to",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "牛奶",
+    "pinyin": "niú nǎi",
+    "english": "milk",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "奶奶",
+    "pinyin": "nǎi nai",
+    "english": "grandmother (fathers)",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "酸奶",
+    "pinyin": "suān nǎi",
+    "english": "yogurt",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "两",
+    "pinyin": "liǎng",
+    "english": "two",
+    "lesson": "1-7"
+  },
+  {
+    "chinese": "绿色",
+    "pinyin": "lǜ sè",
+    "english": "green",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "天气",
+    "pinyin": "tiān qì",
+    "english": "weather",
+    "lesson": "2-14"
+  },
+  {
+    "chinese": "里",
+    "pinyin": "lǐ",
+    "english": "inside (short term)",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "钱包",
+    "pinyin": "qián bāo",
+    "english": "wallet",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "钱",
+    "pinyin": "qián",
+    "english": "money",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "块钱",
+    "pinyin": "kuài qián",
+    "english": "dollar",
+    "lesson": "3-15"
+  },
+  {
+    "chinese": "包",
+    "pinyin": "bāo",
+    "english": "bag",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "背包",
+    "pinyin": "bēi bāo",
+    "english": "backpack",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "汉堡包",
+    "pinyin": "hàn bǎo bāo",
+    "english": "hamburger",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "洗",
+    "pinyin": "xǐ",
+    "english": "wash",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "衣帽间",
+    "pinyin": "yī mào jiān",
+    "english": "cloakroom",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "有时间",
+    "pinyin": "yǒu shí jiān",
+    "english": "have time",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "网站",
+    "pinyin": "wǎng zhàn",
+    "english": "website",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "站",
+    "pinyin": "zhàn",
+    "english": "stand",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "哎呀",
+    "pinyin": "āi yā",
+    "english": "oh no",
+    "lesson": "1-8"
+  },
+  {
+    "chinese": "票",
+    "pinyin": "piào",
+    "english": "ticket",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "售票处",
+    "pinyin": "shòu piào chù",
+    "english": "ticket office",
+    "lesson": "2-17"
+  },
+  {
+    "chinese": "小票",
+    "pinyin": "xiǎo piào",
+    "english": "receipt",
+    "lesson": "3-1"
+  },
+  {
+    "chinese": "先",
+    "pinyin": "xiān",
+    "english": "first",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "红色",
+    "pinyin": "hóng sè",
+    "english": "red",
+    "lesson": "2-19"
+  },
+  {
+    "chinese": "小心",
+    "pinyin": "xiǎo xīn",
+    "english": "be careful",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "放",
+    "pinyin": "fàng",
+    "english": "add/put",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "放松",
+    "pinyin": "fàng sōng",
+    "english": "relax",
+    "lesson": "3-13"
+  },
+  {
+    "chinese": "爷爷",
+    "pinyin": "yé ye",
+    "english": "grandfather (fathers)",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "多",
+    "pinyin": "duō",
+    "english": "more",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "很多",
+    "pinyin": "hěn duō",
+    "english": "a lot of",
+    "lesson": "2-13"
+  },
+  {
+    "chinese": "用",
+    "pinyin": "yòng",
+    "english": "use",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "有用",
+    "pinyin": "yǒu yòng",
+    "english": "useful",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "碗",
+    "pinyin": "wǎn",
+    "english": "bowl",
+    "lesson": "2-4"
+  },
+  {
+    "chinese": "走",
+    "pinyin": "zǒu",
+    "english": "walk / leave",
+    "lesson": "2-28"
+  },
+  {
+    "chinese": "取钱",
+    "pinyin": "qǔ qián",
+    "english": "withdraw",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "柜台",
+    "pinyin": "guì tái",
+    "english": "counter",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "先别",
+    "pinyin": "xiān bié",
+    "english": "not yet",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "预约",
+    "pinyin": "yù yuē",
+    "english": "appointment",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "邮局",
+    "pinyin": "yóu jú",
+    "english": "post office",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "信",
+    "pinyin": "xìn",
+    "english": "letter",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "胶带",
+    "pinyin": "jiāo dài",
+    "english": "sticky tape",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "称",
+    "pinyin": "chēng",
+    "english": "weigh",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "复印",
+    "pinyin": "fù yìn",
+    "english": "photo copy",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "封",
+    "pinyin": "fēng",
+    "english": "(m) letters",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "信封",
+    "pinyin": "xìn fēng",
+    "english": "envelope",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "邮编",
+    "pinyin": "yóu biān",
+    "english": "postal code",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "工作人员",
+    "pinyin": "gōng zuò rén yuán",
+    "english": "staff",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "邮票",
+    "pinyin": "yóu piào",
+    "english": "stamp",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "过来",
+    "pinyin": "guò lái",
+    "english": "come over",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "快递",
+    "pinyin": "kuài dì",
+    "english": "courier",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "卫生纸",
+    "pinyin": "wèi shēng zhǐ",
+    "english": "toilet paper",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "取",
+    "pinyin": "qǔ",
+    "english": "fetch",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "洗衣液",
+    "pinyin": "xǐ yī yè",
+    "english": "laundry detergent",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "袋",
+    "pinyin": "dài",
+    "english": "bag, sack",
+    "lesson": "3-30"
+  },
+  {
+    "chinese": "有",
+    "pinyin": "yǒu",
+    "english": "have",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "有趣",
+    "pinyin": "yǒu qù",
+    "english": "interesting",
+    "lesson": "2-5"
+  },
+  {
+    "chinese": "没有",
+    "pinyin": "méi yǒu",
+    "english": "don’t have",
+    "lesson": "2-12"
+  },
+  {
+    "chinese": "有风",
+    "pinyin": "yǒu fēng",
+    "english": "windy",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "有雨",
+    "pinyin": "yǒu yǔ",
+    "english": "rain",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "明天",
+    "pinyin": "míng tiān",
+    "english": "tomorrow",
+    "lesson": "2-10"
+  },
+  {
+    "chinese": "明天见",
+    "pinyin": "míng tiān jiàn",
+    "english": "See you tomorrow",
+    "lesson": "2-27"
+  },
+  {
+    "chinese": "今天",
+    "pinyin": "jīn tiān",
+    "english": "today",
+    "lesson": "1-9"
+  },
+  {
+    "chinese": "夏天",
+    "pinyin": "xià tiān",
+    "english": "summer",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "冬天",
+    "pinyin": "dōng tiān",
+    "english": "winter",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "秋天",
+    "pinyin": "qiū tiān",
+    "english": "autumn",
+    "lesson": "2-2"
+  },
+  {
+    "chinese": "昨天",
+    "pinyin": "zuó tiān",
+    "english": "yesterday",
+    "lesson": "2-9"
+  },
+  {
+    "chinese": "聊天",
+    "pinyin": "liáo tiān",
+    "english": "chat",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "天呐",
+    "pinyin": "tiān nà",
+    "english": "oh my",
+    "lesson": "2-20"
+  },
+  {
+    "chinese": "晴天",
+    "pinyin": "qíng tiān",
+    "english": "sunny day",
+    "lesson": "2-21"
+  },
+  {
+    "chinese": "吗",
+    "pinyin": "ma",
+    "english": "?",
+    "lesson": "1-5"
+  },
+  {
+    "chinese": "活动",
+    "pinyin": "huó dòng",
+    "english": "activity/event",
+    "lesson": "2-11"
+  },
+  {
+    "chinese": "动",
+    "pinyin": "dòng",
+    "english": "move",
+    "lesson": "3-28"
+  },
+  {
+    "chinese": "跑步",
+    "pinyin": "pǎo bù",
+    "english": "run",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "跑",
+    "pinyin": "pǎo",
+    "english": "run (short form)",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "网",
+    "pinyin": "wǎng",
+    "english": "internet",
+    "lesson": "2-25"
+  },
+  {
+    "chinese": "无线网",
+    "pinyin": "wú xiàn wǎng",
+    "english": "Wi-Fi",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "比较",
+    "pinyin": "bǐ jiào",
+    "english": "relatively",
+    "lesson": "1-10"
+  },
+  {
+    "chinese": "比赛",
+    "pinyin": "bǐ sài",
+    "english": "match",
+    "lesson": "2-29"
+  },
+  {
+    "chinese": "身体",
+    "pinyin": "shēn tǐ",
+    "english": "body",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "只",
+    "pinyin": "zhǐ",
+    "english": "only/(m) animals",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "english": "small/young",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "赵小月",
+    "pinyin": "zhào xiǎo yuè",
+    "english": "Zhao Xiaoyue",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "小偷",
+    "pinyin": "xiǎo tōu",
+    "english": "thief",
+    "lesson": "2-30"
+  },
+  {
+    "chinese": "小时",
+    "pinyin": "xiǎo shí",
+    "english": "hour",
+    "lesson": "3-23"
+  },
+  {
+    "chinese": "床",
+    "pinyin": "chuáng",
+    "english": "bed",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "旧",
+    "pinyin": "jiù",
+    "english": "old (objects)",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "乱",
+    "pinyin": "luàn",
+    "english": "messy",
+    "lesson": "2-1"
+  },
+  {
+    "chinese": "餐桌",
+    "pinyin": "cān zhuō",
+    "english": "dining table",
+    "lesson": "3-19"
+  },
+  {
+    "chinese": "当",
+    "pinyin": "dāng",
+    "english": "become",
+    "lesson": "3-17"
+  },
+  {
+    "chinese": "眼镜",
+    "pinyin": "yǎn jìng",
+    "english": "glasses",
+    "lesson": "3-9"
+  },
+  {
+    "chinese": "颜色",
+    "pinyin": "yán sè",
+    "english": "color",
+    "lesson": "2-26"
+  },
+  {
+    "chinese": "眼睛",
+    "pinyin": "yǎn jing",
+    "english": "eye",
+    "lesson": "3-2"
+  },
+  {
+    "chinese": "让",
+    "pinyin": "ràng",
+    "english": "let/make",
+    "lesson": "4-1"
+  },
+  {
+    "chinese": "负责",
+    "pinyin": "fù zé",
+    "english": "take responsibility for",
+    "lesson": "4-1"
+  },
+  {
+    "chinese": "亲戚",
+    "pinyin": "qīn qi",
+    "english": "relative",
+    "lesson": "4-1"
+  },
+  {
+    "chinese": "要求",
+    "pinyin": "yāo qiú",
+    "english": "requirement",
+    "lesson": "4-1"
+  },
+  {
+    "chinese": "批评",
+    "pinyin": "pī píng",
+    "english": "criticize",
+    "lesson": "4-1"
+  },
+  {
+    "chinese": "瑜伽",
+    "pinyin": "yú jiā",
+    "english": "yoga",
+    "lesson": "4-1"
+  },
+  {
+    "chinese": "其实",
+    "pinyin": "qí shí",
+    "english": "actually",
+    "lesson": "4-1"
+  },
+  {
+    "chinese": "遇到",
+    "pinyin": "yù dào",
+    "english": "encounter",
+    "lesson": "4-1"
+  },
+  {
+    "chinese": "家庭聚会",
+    "pinyin": "jiā tíng jù huì",
+    "english": "family gathering",
+    "lesson": "4-1"
+  }
+]
