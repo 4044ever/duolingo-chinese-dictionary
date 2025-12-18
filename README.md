@@ -25,8 +25,15 @@ JSON
   }
 ```
 
+
 Is the data complete?  
-No, beside missing words that I still haven't found yet or simply missed I can only see data up to the lesson I am currently doing, that is Section 4, Unit 6 right now. I also started curation the data near the end of Section 3, so I presume there are many words that are missing and hard to find because going through all the previous lessons is rather tedious. But this is whre YOU can help.
+No, beside missing words that I still haven't found yet or simply missed I can only see data up to the lesson I am currently doing, that is Section 4, Unit 11 right now. I also started curation the data near the end of Section 3, so I presume there are many words that are missing and hard to find because going through all the previous lessons is rather tedious. But this is whre YOU can help.
+
+Some words have no lessons number  
+These are words that I `found` in lessons, but don't remember were they appeared first.
+
+What is [c]?  
+The are the classifiers, 个, 辆, 张 and a few more
 
 Is there any data left out?  
 Yes. I leave out out all single charactersthat do not have a meaning by itself. Example: 可以 is a word and we all all know, but neither 可 nor 以 is used by itself. Of course 可以, 可乐, 以前 etc are all in the list. I also left out some locations, like Berlin, New York, which I fin not that relevant. 
