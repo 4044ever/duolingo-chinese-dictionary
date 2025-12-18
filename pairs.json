@@ -128,7 +128,7 @@
   {
     "chinese": "饭馆",
     "pinyin": "fàn guǎn",
-    "english": "restaurant",
+    "english": "restaurant (casual)",
     "lesson": "1-6"
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "chinese": "哪里",
     "pinyin": "nǎ lǐ",
-    "english": "where",
+    "english": "where (std)",
     "lesson": "1-8"
   },
   {
@@ -2822,7 +2822,7 @@
   {
     "chinese": "表哥",
     "pinyin": "biǎo gē",
-    "english": "cousin (m)",
+    "english": "cousin [c]",
     "lesson": "3-12"
   },
   {
@@ -3584,7 +3584,7 @@
   {
     "chinese": "最",
     "pinyin": "zuì",
-    "english": "most",
+    "english": "the most",
     "lesson": "2-20"
   },
   {
@@ -3986,7 +3986,7 @@
   {
     "chinese": "个",
     "pinyin": "gè",
-    "english": "(m) general objects",
+    "english": "[c] general objects",
     "lesson": "1-9"
   },
   {
@@ -4130,7 +4130,7 @@
   {
     "chinese": "道",
     "pinyin": "dào",
-    "english": "(m) dishes",
+    "english": "[c] dishes",
     "lesson": "3-15"
   },
   {
@@ -4424,7 +4424,7 @@
   {
     "chinese": "重",
     "pinyin": "chóng",
-    "english": "heavy",
+    "english": "heavy/strong",
     "lesson": "2-7"
   },
   {
@@ -4970,7 +4970,7 @@
   {
     "chinese": "位",
     "pinyin": "wèi",
-    "english": "(m) polite for people",
+    "english": "[c] polite for people",
     "lesson": "3-28"
   },
   {
@@ -5126,7 +5126,7 @@
   {
     "chinese": "口",
     "pinyin": "kǒu",
-    "english": "(m) for people",
+    "english": "[c] for people",
     "lesson": "2-22"
   },
   {
@@ -6044,7 +6044,7 @@
   {
     "chinese": "封",
     "pinyin": "fēng",
-    "english": "(m) letters",
+    "english": "[c] letters",
     "lesson": "3-30"
   },
   {
@@ -6260,7 +6260,7 @@
   {
     "chinese": "只",
     "pinyin": "zhǐ",
-    "english": "only/(m) animals",
+    "english": "only/[c] animals",
     "lesson": "2-1"
   },
   {
@@ -6488,7 +6488,7 @@
   {
     "chinese": "下",
     "pinyin": "xià",
-    "english": "(m) brief action",
+    "english": "[c] brief action",
     "lesson": "3-6"
   },
   {
@@ -6734,7 +6734,7 @@
   {
     "chinese": "块",
     "pinyin": "kuài",
-    "english": "chunk/(m) money",
+    "english": "chunk/[c] money",
     "lesson": "2-25"
   },
   {
@@ -6758,7 +6758,7 @@
   {
     "chinese": "计划",
     "pinyin": "jì huà",
-    "english": "plan",
+    "english": "general plan",
     "lesson": "2-17"
   },
   {
@@ -6818,7 +6818,7 @@
   {
     "chinese": "的时候",
     "pinyin": "de shí hou",
-    "english": "",
+    "english": "when.....",
     "lesson": "2-2"
   },
   {
@@ -6932,7 +6932,7 @@
   {
     "chinese": "节",
     "pinyin": "jié",
-    "english": "(m) for sessions",
+    "english": "[c] for sessions",
     "lesson": "1-9"
   },
   {
@@ -6968,7 +6968,7 @@
   {
     "chinese": "张",
     "pinyin": "zhāng",
-    "english": "(m) for flat objects",
+    "english": "[c] for flat objects",
     "lesson": "3-1"
   },
   {
@@ -7938,6 +7938,324 @@
     "lesson": "4-7"
   },
   {
+    "chinese": "懂",
+    "pinyin": "dǒng",
+    "english": "comprehend/grasp",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "数据",
+    "pinyin": "shù jù",
+    "english": "data (raw)",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "整个",
+    "pinyin": "zhěng gè",
+    "english": "entire",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "方案",
+    "pinyin": "fāng àn",
+    "english": "detailed plan",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "合理",
+    "pinyin": "hé lǐ",
+    "english": "reasonable",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "合同",
+    "pinyin": "hé tong",
+    "english": "contract",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "确定",
+    "pinyin": "què dìng",
+    "english": "confirm",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "准确",
+    "pinyin": "zhǔn què",
+    "english": "accurate",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "进度",
+    "pinyin": "jìn dù",
+    "english": "progress",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "资料",
+    "pinyin": "zī liào",
+    "english": "materials/documents",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "收集",
+    "pinyin": "shōu jí",
+    "english": "collect",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "部分",
+    "pinyin": "bù fen",
+    "english": "part",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "内容",
+    "pinyin": "nèi róng",
+    "english": "content",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "复杂",
+    "pinyin": "fù zá",
+    "english": "complex",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "细节",
+    "pinyin": "xì jié",
+    "english": "detail",
+    "lesson": "4-8"
+  },
+  {
+    "chinese": "刀",
+    "pinyin": "dāo",
+    "english": "knife",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "醋",
+    "pinyin": "cù",
+    "english": "vinegar",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "宫保鸡丁",
+    "pinyin": "gōng bǎo jī dīng",
+    "english": "Kung Pao chicken",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "调料",
+    "pinyin": "tiáo liào",
+    "english": "seasoning",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "清单",
+    "pinyin": "qīng dān",
+    "english": "list",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "加热",
+    "pinyin": "jiā rè",
+    "english": "heat",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "餐厅",
+    "pinyin": "cān tīng",
+    "english": "formal restaurant",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "哪儿",
+    "pinyin": "nǎ r",
+    "english": "where",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "烟",
+    "pinyin": "yān",
+    "english": "smoke",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "花生",
+    "pinyin": "huā shēng",
+    "english": "peanut",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "美元",
+    "pinyin": "měi yuán",
+    "english": "US dollar",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "公布",
+    "pinyin": "gōng bù",
+    "english": "announce",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "外向",
+    "pinyin": "wài xiàng",
+    "english": "outgoing",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "学院",
+    "pinyin": "xué yuàn",
+    "english": "college",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "交换",
+    "pinyin": "jiāo huàn",
+    "english": "exchange",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "意大利",
+    "pinyin": "yì dà lì",
+    "english": "Italy",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "大部分",
+    "pinyin": "dà bù fen",
+    "english": "most",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "赶快",
+    "pinyin": "gǎn kuài",
+    "english": "quickly",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "收到",
+    "pinyin": "shōu dào",
+    "english": "receive",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "房东",
+    "pinyin": "fáng dōng",
+    "english": "landlord",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "期末",
+    "pinyin": "qī mò",
+    "english": "end of term",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "当地",
+    "pinyin": "dāng dì",
+    "english": "local",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "了解",
+    "pinyin": "liǎo jiě",
+    "english": "know/be familiar",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "一个人",
+    "pinyin": "yí gè rén",
+    "english": "alone",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "自信",
+    "pinyin": "zì xìn",
+    "english": "confident",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "抓",
+    "pinyin": "zhuā",
+    "english": "apprehend",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "虫子",
+    "pinyin": "chóng zi",
+    "english": "insect",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "猴子",
+    "pinyin": "hóu zi",
+    "english": "monkey",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "难忘",
+    "pinyin": "nán wàng",
+    "english": "unforgettable",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "再也不",
+    "pinyin": "zài yě bù",
+    "english": "no longer",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "男人",
+    "pinyin": "nán rén",
+    "english": "man",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "女人",
+    "pinyin": "nǚ rén",
+    "english": "woman",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "平板电脑",
+    "pinyin": "píng bǎn diàn nǎo",
+    "english": "tablet computer",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "耳环",
+    "pinyin": "ěr huán",
+    "english": "earring",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "救",
+    "pinyin": "jiù",
+    "english": "save",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "车祸",
+    "pinyin": "chē huò",
+    "english": "car accident",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "导游",
+    "pinyin": "dǎo yóu",
+    "english": "tour guide",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "手指",
+    "pinyin": "shǒu zhǐ",
+    "english": "finger",
+    "lesson": "4-11"
+  },
+  {
     "chinese": "吵架",
     "pinyin": "chǎo jià",
     "english": "argue",
@@ -8086,5 +8404,191 @@
     "pinyin": "yuè lái yuè",
     "english": "more and more",
     "lesson": "4-7"
+  },
+  {
+    "chinese": "翻译",
+    "pinyin": "fān yì",
+    "english": "to translate, translator",
+    "lesson": ""
+  },
+  {
+    "chinese": "背",
+    "pinyin": "bēi",
+    "english": "to carry on back/shoulder",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "蛇",
+    "pinyin": "shé",
+    "english": "snake",
+    "lesson": ""
+  },
+  {
+    "chinese": "跳舞",
+    "pinyin": "tiào wǔ",
+    "english": "dancing",
+    "lesson": ""
+  },
+  {
+    "chinese": "送",
+    "pinyin": "sòng",
+    "english": "to send/deliver",
+    "lesson": ""
+  },
+  {
+    "chinese": "遛狗",
+    "pinyin": "liù gǒu",
+    "english": "walk a dog",
+    "lesson": ""
+  },
+  {
+    "chinese": "队",
+    "pinyin": "duì",
+    "english": "team",
+    "lesson": "3-16"
+  },
+  {
+    "chinese": "偷",
+    "pinyin": "tōu",
+    "english": "to steel",
+    "lesson": ""
+  },
+  {
+    "chinese": "打车",
+    "pinyin": "dǎ chē",
+    "english": "take a taxi",
+    "lesson": ""
+  },
+  {
+    "chinese": "姜",
+    "pinyin": "jiāng",
+    "english": "ginger",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "锅",
+    "pinyin": "guō",
+    "english": "pot",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "步",
+    "pinyin": "bù",
+    "english": "step",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "微波炉",
+    "pinyin": "wēi bō lú",
+    "english": "microwave",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "搅拌",
+    "pinyin": "jiǎo bàn",
+    "english": "mix/stir",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "倒",
+    "pinyin": "dào",
+    "english": "to pour",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "葱",
+    "pinyin": "yáng cōng",
+    "english": "scallion / green onion",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "烫",
+    "pinyin": "tàng",
+    "english": "to blanch",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "关紧",
+    "pinyin": "guān jǐn",
+    "english": "to close firmly/to lock",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "递给",
+    "pinyin": "dì gěi",
+    "english": "to hand it",
+    "lesson": "4-9"
+  },
+  {
+    "chinese": "交",
+    "pinyin": "jiāo",
+    "english": "make ???",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "开学",
+    "pinyin": "kāi xué",
+    "english": "school starts",
+    "lesson": "4-10"
+  },
+  {
+    "chinese": "事",
+    "pinyin": "shì",
+    "english": "thing/matter",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "别提了",
+    "pinyin": "bié tí le",
+    "english": "don’t mention it",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "骂",
+    "pinyin": "mà",
+    "english": "scold",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "被",
+    "pinyin": "bèi",
+    "english": "being",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "被拒绝",
+    "pinyin": "bèi jù jué",
+    "english": "refected",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "插队",
+    "pinyin": "chā duì",
+    "english": "cutting in line",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "辆",
+    "pinyin": "liàng",
+    "english": "[c] vehicles",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "撞",
+    "pinyin": "zhuàng",
+    "english": "collide",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "咬",
+    "pinyin": "yǎo",
+    "english": "bite",
+    "lesson": "4-11"
+  },
+  {
+    "chinese": "明白",
+    "pinyin": "míng bái",
+    "english": "realize/be clear",
+    "lesson": "4-11"
   }
 ]
