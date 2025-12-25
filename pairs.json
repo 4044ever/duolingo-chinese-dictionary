@@ -1944,7 +1944,7 @@
     "lesson": "2-7"
   },
   {
-    "chinese": "打开",
+    "chinese": "打开 / open",
     "pinyin": "dǎ kāi",
     "english": "turn on",
     "lesson": "2-29"
@@ -2006,7 +2006,7 @@
   {
     "chinese": "准时",
     "pinyin": "zhǔn shí",
-    "english": "on time",
+    "english": "punctual",
     "lesson": "3-20"
   },
   {
@@ -2216,7 +2216,7 @@
   {
     "chinese": "换",
     "pinyin": "huàn",
-    "english": "exchange",
+    "english": "change/exchange",
     "lesson": "2-24"
   },
   {
@@ -6620,7 +6620,7 @@
   {
     "chinese": "骨折",
     "pinyin": "gǔ zhé",
-    "english": "break",
+    "english": "medical fracture",
     "lesson": "3-28"
   },
   {
@@ -6890,7 +6890,7 @@
   {
     "chinese": "接",
     "pinyin": "jiē",
-    "english": "pick up",
+    "english": "pick up/catch",
     "lesson": "2-24"
   },
   {
@@ -7514,7 +7514,7 @@
   {
     "chinese": "本来",
     "pinyin": "běn lái",
-    "english": "originally",
+    "english": "at first...",
     "lesson": "4-3"
   },
   {
@@ -7976,7 +7976,7 @@
   {
     "chinese": "确定",
     "pinyin": "què dìng",
-    "english": "confirm",
+    "english": "confirm / sure",
     "lesson": "4-8"
   },
   {
@@ -8114,7 +8114,7 @@
   {
     "chinese": "交换",
     "pinyin": "jiāo huàn",
-    "english": "exchange",
+    "english": "exchange/swap",
     "lesson": "4-10"
   },
   {
@@ -8256,6 +8256,192 @@
     "lesson": "4-11"
   },
   {
+    "chinese": "坏",
+    "pinyin": "huài",
+    "english": "bad",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "互相",
+    "pinyin": "hù xiāng",
+    "english": "each other",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "拜拜",
+    "pinyin": "bái bái",
+    "english": "bye-bye",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "植物",
+    "pinyin": "zhí wù",
+    "english": "plant",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "一切",
+    "pinyin": "yí qiè",
+    "english": "everything",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "香肠",
+    "pinyin": "xiāng cháng",
+    "english": "sausage",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "打碎",
+    "pinyin": "dǎ suì",
+    "english": "to break smt.",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "柜子",
+    "pinyin": "guì zi",
+    "english": "cabinet",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "整理",
+    "pinyin": "zhěng lǐ",
+    "english": "arrange",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "垃圾",
+    "pinyin": "lā jī",
+    "english": "trash",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "美食",
+    "pinyin": "měi shí",
+    "english": "gourmet food",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "能干",
+    "pinyin": "néng gàn",
+    "english": "capable",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "扫把",
+    "pinyin": "sào bǎ",
+    "english": "broom",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "自由",
+    "pinyin": "zì yóu",
+    "english": "freedom",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "放心",
+    "pinyin": "fàng xīn",
+    "english": "relax",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "包裹",
+    "pinyin": "bāo guǒ",
+    "english": "package",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "按时",
+    "pinyin": "àn shí",
+    "english": "on schedule",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "老鼠",
+    "pinyin": "lǎo shǔ",
+    "english": "mouse",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "弄坏",
+    "pinyin": "nòng huài",
+    "english": "break",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "本子",
+    "pinyin": "běn zi",
+    "english": "notebook",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "饮水机",
+    "pinyin": "yǐn shuǐ jī",
+    "english": "water dispenser",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "到处",
+    "pinyin": "dào chù",
+    "english": "everywhere",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "看到",
+    "pinyin": "kàn dào",
+    "english": "see",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "休息室",
+    "pinyin": "xiū xī shì",
+    "english": "lounge",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "幸好",
+    "pinyin": "xìng hǎo",
+    "english": "fortunately",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "食物",
+    "pinyin": "shí wù",
+    "english": "food",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "文件夹",
+    "pinyin": "wén jiàn jiā",
+    "english": "folder",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "发生了什么",
+    "pinyin": "fā shēng le shén me",
+    "english": "What happened",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "调查",
+    "pinyin": "diào chá",
+    "english": "investigate",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "保安",
+    "pinyin": "bǎo ān",
+    "english": "security guard",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "不可能",
+    "pinyin": "bù kě néng",
+    "english": "impossible",
+    "lesson": "4-13"
+  },
+  {
     "chinese": "吵架",
     "pinyin": "chǎo jià",
     "english": "argue",
@@ -8385,7 +8571,7 @@
     "chinese": "刷",
     "pinyin": "shuā",
     "english": "brush",
-    "lesson": "0-0"
+    "lesson": ""
   },
   {
     "chinese": "啊",
@@ -8558,7 +8744,7 @@
   {
     "chinese": "被拒绝",
     "pinyin": "bèi jù jué",
-    "english": "refected",
+    "english": "rejected",
     "lesson": "4-11"
   },
   {
@@ -8590,5 +8776,77 @@
     "pinyin": "míng bái",
     "english": "realize/be clear",
     "lesson": "4-11"
+  },
+  {
+    "chinese": "宝贝",
+    "pinyin": "bǎo bèi",
+    "english": "darling",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "烤箱",
+    "pinyin": "kǎo xiāng",
+    "english": "oven",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "扔",
+    "pinyin": "rēng",
+    "english": "throw",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "擦",
+    "pinyin": "cā",
+    "english": "wipe",
+    "lesson": "4-12"
+  },
+  {
+    "chinese": "举",
+    "pinyin": "jǔ",
+    "english": "to raise (pet)",
+    "lesson": ""
+  },
+  {
+    "chinese": "累",
+    "pinyin": "lèi",
+    "english": "tired",
+    "lesson": ""
+  },
+  {
+    "chinese": "花",
+    "pinyin": "huā",
+    "english": "flower",
+    "lesson": ""
+  },
+  {
+    "chinese": "祝",
+    "pinyin": "zhù",
+    "english": "congratulate",
+    "lesson": ""
+  },
+  {
+    "chinese": "原来",
+    "pinyin": "yuán lái",
+    "english": "turns out",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "鬼",
+    "pinyin": "guǐ",
+    "english": "ghost",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "锁",
+    "pinyin": "suǒ",
+    "english": "lock",
+    "lesson": "4-13"
+  },
+  {
+    "chinese": "臭",
+    "pinyin": "chòu",
+    "english": "bad smell",
+    "lesson": "4-13"
   }
 ]
