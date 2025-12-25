@@ -33,13 +33,13 @@ Some words have no lessons number
 These are words that I `found` in lessons, but don't remember were they appeared first.
 
 What is [c]?  
-The are the classifiers, 个, 辆, 张 and a few more
+The are the classifiers, 个, 辆, 张 and a few more.
 
 Is there any data left out?  
 Yes. I leave out out all single charactersthat do not have a meaning by itself. Example: 可以 is a word and we all all know, but neither 可 nor 以 is used by itself. Of course 可以, 可乐, 以前 etc are all in the list. I also left out some locations, like Berlin, New York, which I fin not that relevant. 
 
 What can I do with that?  
-Use it create Anki flashcards or any other things that can support language learning outise of Duolingo
+Use it create Anki flashcards or any other things that can support language learning outise of Duolingo.
 
 Can I support the project?  
 YES! When you do Duolingo, keep an eye on words that might be missing in the list. Missing means, they are in lessons, but somehow not in the  Duolingo Dictionary at https://www.duolingo.com/characters - or not in my data.
@@ -51,5 +51,6 @@ How often you update?
 I am still active on the Chinese lessons and will update the files every few days. My aim is one unit a day. So I might be through some time in March 2026.
 
 How can I let you know any error or missing word?  
-Use the `Issues` tab to leave a message. If you see a missing word please post the Chinese characters, and unit where you found it (i.e.  水, 1-1), I will add Pinyin or English
+Use the `Issues` tab to leave a message. If you see a missing word please post the Chinese characters, and unit where you found it (i.e.  水, 1-1), I will add Pinyin or English.
+
 
