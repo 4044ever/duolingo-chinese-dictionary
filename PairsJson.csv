@@ -323,7 +323,7 @@ chinese,pinyin,english,lesson
 纸,zhǐ,paper,3-20
 打,dǎ,beat/pack,1-10
 打扫,dǎ sǎo,cleaning,2-7
-打开,dǎ kāi,turn on,2-29
+打开 / open,dǎ kāi,turn on,2-29
 打印,dǎ yìn,print,3-20
 休假,xiū jiǎ,take a vacation,3-20
 假,jiǎ,leave/vacation,2-9
@@ -333,7 +333,7 @@ chinese,pinyin,english,lesson
 项目,xiàng mù,project,3-20
 节目,jié mù,program,2-12
 准备,zhǔn bèi,prepare,2-10
-准时,zhǔn shí,on time,3-20
+准时,zhǔn shí,punctual,3-20
 小时候,xiǎo shí hou,when I was young,2-13
 有时候,yǒu shí hou,sometimes,2-23
 时间,shí jiān,time,2-24
@@ -368,7 +368,7 @@ chinese,pinyin,english,lesson
 桌游,zhuō yóu,board game,2-13
 游乐场,yóu lè chǎng,amusement park,3-7
 游客,yóu kè,tourist,3-23
-换,huàn,exchange,2-24
+换,huàn,change/exchange,2-24
 抽屉,chōu ti,drawer,3-19
 挂,guà,hang,3-19
 花盆,huā pén,flowerpot,3-19
@@ -1102,7 +1102,7 @@ chinese,pinyin,english,lesson
 付,fù,pay,3-1
 T恤,xù,T-shirt,3-1
 折,zhé,discount,2-25
-骨折,gǔ zhé,break,3-28
+骨折,gǔ zhé,medical fracture,3-28
 危险,wēi xiǎn,dangerous,2-20
 蜘蛛,zhī zhū,spider,2-20
 选,xuǎn,choose,2-27
@@ -1147,7 +1147,7 @@ T恤,xù,T-shirt,3-1
 教,jiào,teach,3-5
 教授,jiào shòu,professor,3-10
 甜,tián,sweet,3-2
-接,jiē,pick up,2-24
+接,jiē,pick up/catch,2-24
 见,jiàn,see/meet,2-14
 再见,zài jiàn,goodbye,3-19
 苦,kǔ,bitter,3-13
@@ -1251,7 +1251,7 @@ T恤,xù,T-shirt,3-1
 下次见,xià cì jiàn,See you next time,4-2
 正常,zhèng cháng,normal,4-3
 工厂,gōng chǎng,factory,4-3
-本来,běn lái,originally,4-3
+本来,běn lái,at first...,4-3
 笔记本电脑,bǐ jì běn diàn nǎo,laptop,4-3
 电,diàn,electricity,4-3
 电池,diàn chí,battery,4-3
@@ -1328,7 +1328,7 @@ T恤,xù,T-shirt,3-1
 方案,fāng àn,detailed plan,4-8
 合理,hé lǐ,reasonable,4-8
 合同,hé tong,contract,4-8
-确定,què dìng,confirm,4-8
+确定,què dìng,confirm / sure,4-8
 准确,zhǔn què,accurate,4-8
 进度,jìn dù,progress,4-8
 资料,zī liào,materials/documents,4-8
@@ -1351,7 +1351,7 @@ T恤,xù,T-shirt,3-1
 公布,gōng bù,announce,4-10
 外向,wài xiàng,outgoing,4-10
 学院,xué yuàn,college,4-10
-交换,jiāo huàn,exchange,4-10
+交换,jiāo huàn,exchange/swap,4-10
 意大利,yì dà lì,Italy,4-10
 大部分,dà bù fen,most,4-10
 赶快,gǎn kuài,quickly,4-10
@@ -1375,6 +1375,37 @@ T恤,xù,T-shirt,3-1
 车祸,chē huò,car accident,4-11
 导游,dǎo yóu,tour guide,4-11
 手指,shǒu zhǐ,finger,4-11
+坏,huài,bad,4-12
+互相,hù xiāng,each other,4-12
+拜拜,bái bái,bye-bye,4-12
+植物,zhí wù,plant,4-12
+一切,yí qiè,everything,4-12
+香肠,xiāng cháng,sausage,4-12
+打碎,dǎ suì,to break smt.,4-12
+柜子,guì zi,cabinet,4-12
+整理,zhěng lǐ,arrange,4-12
+垃圾,lā jī,trash,4-12
+美食,měi shí,gourmet food,4-12
+能干,néng gàn,capable,4-12
+扫把,sào bǎ,broom,4-12
+自由,zì yóu,freedom,4-12
+放心,fàng xīn,relax,4-12
+包裹,bāo guǒ,package,4-12
+按时,àn shí,on schedule,4-12
+老鼠,lǎo shǔ,mouse,4-13
+弄坏,nòng huài,break,4-13
+本子,běn zi,notebook,4-13
+饮水机,yǐn shuǐ jī,water dispenser,4-13
+到处,dào chù,everywhere,4-13
+看到,kàn dào,see,4-13
+休息室,xiū xī shì,lounge,4-13
+幸好,xìng hǎo,fortunately,4-13
+食物,shí wù,food,4-13
+文件夹,wén jiàn jiā,folder,4-13
+发生了什么,fā shēng le shén me,What happened,4-13
+调查,diào chá,investigate,4-13
+保安,bǎo ān,security guard,4-13
+不可能,bù kě néng,impossible,4-13
 吵架,chǎo jià,argue,4-2
 尴尬,gān gà,awkward,4-2
 咱们,zán men,we/us (casual),4-2
@@ -1396,7 +1427,7 @@ T恤,xù,T-shirt,3-1
 尝试,cháng shì,try (more formal),4-4
 散步,sàn bù,take a walk,4-4
 唉,ài,sigh/oh well,4-4
-刷,shuā,brush,0-0
+刷,shuā,brush,
 啊,a,"oh (surprise, realization)",4-7
 顿,dùn,meal,4-7
 越来越,yuè lái yuè,more and more,4-7
@@ -1425,9 +1456,21 @@ T恤,xù,T-shirt,3-1
 别提了,bié tí le,don’t mention it,4-11
 骂,mà,scold,4-11
 被,bèi,being,4-11
-被拒绝,bèi jù jué,refected,4-11
+被拒绝,bèi jù jué,rejected,4-11
 插队,chā duì,cutting in line,4-11
 辆,liàng,[c] vehicles,4-11
 撞,zhuàng,collide,4-11
 咬,yǎo,bite,4-11
 明白,míng bái,realize/be clear,4-11
+宝贝,bǎo bèi,darling,4-12
+烤箱,kǎo xiāng,oven,4-12
+扔,rēng,throw,4-12
+擦,cā,wipe,4-12
+举,jǔ,to raise (pet),
+累,lèi,tired,
+花,huā,flower,
+祝,zhù,congratulate,
+原来,yuán lái,turns out,4-13
+鬼,guǐ,ghost,4-13
+锁,suǒ,lock,4-13
+臭,chòu,bad smell,4-13
