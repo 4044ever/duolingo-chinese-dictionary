@@ -9,7 +9,7 @@ How is the data stored?
 CSV and JSON. The JSON is created from the CSV. CSV can open in Excel and other spreadsheet software. The formats are:
  
 CSV
-
+ 
 ```
 chinese,pinyin,english,lesson
 水,shuǐ,water,1-1
