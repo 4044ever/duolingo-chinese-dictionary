@@ -7,7 +7,7 @@ True. But it's hard to download. It has also some trsanslation errors andmany wo
 
 How is the data stored?  
 CSV and JSON. The JSON is created from the CSV. CSV can open in Excel and other spreadsheet software. The formats are:
-
+ 
 CSV
 
 ```
