@@ -326,7 +326,7 @@ chinese,pinyin,english,lesson
 打开 / open,dǎ kāi,turn on,2-29
 打印,dǎ yìn,print,3-20
 休假,xiū jiǎ,take a vacation,3-20
-假,jiǎ,leave/vacation,2-9
+假,jià,leave/vacation,2-9
 暑假,shǔ jià,summer vacation,3-10
 一样,yí yàng,same as,3-12
 项链,xiàng liàn,necklace,2-10
@@ -955,12 +955,12 @@ chinese,pinyin,english,lesson
 妈妈,mā ma,mother,1-5
 公寓,gōng yù,apartment,2-1
 也,yě,also,1-5
-也许,yě xǔ,may,3-10
+也许,yě xǔ,maybe,3-10
 超市,chāo shì,supermarket,1-6
 城市,chéng shì,city,2-17
 体育馆,tǐ yù guǎn,gymnasium,2-11
 买,mǎi,to buy,1-6
-零食,líng shí,snack,1-6
+零食,líng shí,processed snack,1-6
 食堂,shí táng,cafeteria,2-11
 要,yào,want to,1-7
 牛奶,niú nǎi,milk,1-7
@@ -1064,7 +1064,7 @@ chinese,pinyin,english,lesson
 远,yuǎn,far,2-2
 贵,guì,expensive,2-2
 适合,shì hé,suit,3-2
-作品,zuò pǐn,work,3-6
+作品,zuò pǐn,work of art,3-6
 到,dào,reach,2-15
 搬到,bān dào,move to..,3-3
 一月,yī yuè,January,3-17
@@ -1147,7 +1147,7 @@ T恤,xù,T-shirt,3-1
 教,jiào,teach,3-5
 教授,jiào shòu,professor,3-10
 甜,tián,sweet,3-2
-接,jiē,pick up/catch,2-24
+接,jiē,pick up/catch/answer,2-24
 见,jiàn,see/meet,2-14
 再见,zài jiàn,goodbye,3-19
 苦,kǔ,bitter,3-13
@@ -1406,6 +1406,39 @@ T恤,xù,T-shirt,3-1
 调查,diào chá,investigate,4-13
 保安,bǎo ān,security guard,4-13
 不可能,bù kě néng,impossible,4-13
+欣赏,xīn shǎng,appreciate,4-14
+王冠,wáng guān,crown,4-14
+木头,mù tou,wood,4-14
+现代,xiàn dài,modern,4-14
+石头,shí tou,stone,4-14
+世界,shì jiè,the world,4-14
+去世,qù shì,to die,4-14
+艺术,yì shù,art,4-14
+艺术家,yì shù jiā,artist,4-14
+有关,yǒu guān,related to,4-14
+男,nán,male,4-14
+画家,huà jiā,painter,4-14
+雕塑,diāo sù,sculpture,4-14
+塑料,sù liào,plastic,4-14
+狮子,shī zǐ,lion,4-14
+理解,lǐ jiě,understand,4-14
+灵感,líng gǎn,inspiration,4-14
+埃及,āi jí,Egypt,4-15
+各种各样,gè zhǒng gè yàng,various,4-15
+沙漠,shā mò,desert,4-15
+越南,yuè nán,Vietnam,4-15
+寺庙,sì miào,temple,4-15
+非洲,fēi zhōu,Africa,4-15
+打算,dǎ suàn,plan,4-15
+待,dāi,stay,4-15
+芒果,máng guǒ,mango,4-15
+小吃,xiǎo chī,snack / street food,4-15
+爱上,ài shàng,fall in love with,4-15
+景点,jǐng diǎn,attraction,4-15
+完全不,wán quán bù,not at all,4-15
+视频,shì pín,video,4-15
+青年旅馆,qīng nián lǚ guǎn,youth hostel,4-15
+欧元,ōu yuán,euro,4-15
 吵架,chǎo jià,argue,4-2
 尴尬,gān gà,awkward,4-2
 咱们,zán men,we/us (casual),4-2
@@ -1474,3 +1507,14 @@ T恤,xù,T-shirt,3-1
 鬼,guǐ,ghost,4-13
 锁,suǒ,lock,4-13
 臭,chòu,bad smell,4-13
+全,quán,whole/all,4-14
+方,fāng,square shape,4-14
+座,zuò,[c] buildings/mountains,4-14
+幅,fú,[c] textiles / pictures,4-14
+假,jiǎ,fake/false,4-14
+展,zhǎn,exhibition,4-14
+一边正常,yī biān zhèng cháng,one side is normal,4-14
+休学,xiū xué,Suspension of studies,4-15
+建筑,jiàn zhù,Architecture,4-15
+继续,jì xù,continue,4-15
+点赞,diǎn zàn,give a like,4-15
