@@ -1963,7 +1963,7 @@
   },
   {
     "chinese": "假",
-    "pinyin": "jiǎ",
+    "pinyin": "jià",
     "english": "leave/vacation",
     "lesson": "2-9"
   },
@@ -5738,7 +5738,7 @@
   {
     "chinese": "也许",
     "pinyin": "yě xǔ",
-    "english": "may",
+    "english": "maybe",
     "lesson": "3-10"
   },
   {
@@ -5768,7 +5768,7 @@
   {
     "chinese": "零食",
     "pinyin": "líng shí",
-    "english": "snack",
+    "english": "processed snack",
     "lesson": "1-6"
   },
   {
@@ -6392,7 +6392,7 @@
   {
     "chinese": "作品",
     "pinyin": "zuò pǐn",
-    "english": "work",
+    "english": "work of art",
     "lesson": "3-6"
   },
   {
@@ -6890,7 +6890,7 @@
   {
     "chinese": "接",
     "pinyin": "jiē",
-    "english": "pick up/catch",
+    "english": "pick up/catch/answer",
     "lesson": "2-24"
   },
   {
@@ -8442,6 +8442,204 @@
     "lesson": "4-13"
   },
   {
+    "chinese": "欣赏",
+    "pinyin": "xīn shǎng",
+    "english": "appreciate",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "王冠",
+    "pinyin": "wáng guān",
+    "english": "crown",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "木头",
+    "pinyin": "mù tou",
+    "english": "wood",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "现代",
+    "pinyin": "xiàn dài",
+    "english": "modern",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "石头",
+    "pinyin": "shí tou",
+    "english": "stone",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "世界",
+    "pinyin": "shì jiè",
+    "english": "the world",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "去世",
+    "pinyin": "qù shì",
+    "english": "to die",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "艺术",
+    "pinyin": "yì shù",
+    "english": "art",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "艺术家",
+    "pinyin": "yì shù jiā",
+    "english": "artist",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "有关",
+    "pinyin": "yǒu guān",
+    "english": "related to",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "男",
+    "pinyin": "nán",
+    "english": "male",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "画家",
+    "pinyin": "huà jiā",
+    "english": "painter",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "雕塑",
+    "pinyin": "diāo sù",
+    "english": "sculpture",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "塑料",
+    "pinyin": "sù liào",
+    "english": "plastic",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "狮子",
+    "pinyin": "shī zǐ",
+    "english": "lion",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "理解",
+    "pinyin": "lǐ jiě",
+    "english": "understand",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "灵感",
+    "pinyin": "líng gǎn",
+    "english": "inspiration",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "埃及",
+    "pinyin": "āi jí",
+    "english": "Egypt",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "各种各样",
+    "pinyin": "gè zhǒng gè yàng",
+    "english": "various",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "沙漠",
+    "pinyin": "shā mò",
+    "english": "desert",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "越南",
+    "pinyin": "yuè nán",
+    "english": "Vietnam",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "寺庙",
+    "pinyin": "sì miào",
+    "english": "temple",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "非洲",
+    "pinyin": "fēi zhōu",
+    "english": "Africa",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "打算",
+    "pinyin": "dǎ suàn",
+    "english": "plan",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "待",
+    "pinyin": "dāi",
+    "english": "stay",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "芒果",
+    "pinyin": "máng guǒ",
+    "english": "mango",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "小吃",
+    "pinyin": "xiǎo chī",
+    "english": "snack / street food",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "爱上",
+    "pinyin": "ài shàng",
+    "english": "fall in love with",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "景点",
+    "pinyin": "jǐng diǎn",
+    "english": "attraction",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "完全不",
+    "pinyin": "wán quán bù",
+    "english": "not at all",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "视频",
+    "pinyin": "shì pín",
+    "english": "video",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "青年旅馆",
+    "pinyin": "qīng nián lǚ guǎn",
+    "english": "youth hostel",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "欧元",
+    "pinyin": "ōu yuán",
+    "english": "euro",
+    "lesson": "4-15"
+  },
+  {
     "chinese": "吵架",
     "pinyin": "chǎo jià",
     "english": "argue",
@@ -8848,5 +9046,71 @@
     "pinyin": "chòu",
     "english": "bad smell",
     "lesson": "4-13"
+  },
+  {
+    "chinese": "全",
+    "pinyin": "quán",
+    "english": "whole/all",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "方",
+    "pinyin": "fāng",
+    "english": "square shape",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "座",
+    "pinyin": "zuò",
+    "english": "[c] buildings/mountains",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "幅",
+    "pinyin": "fú",
+    "english": "[c] textiles / pictures",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "假",
+    "pinyin": "jiǎ",
+    "english": "fake/false",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "展",
+    "pinyin": "zhǎn",
+    "english": "exhibition",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "一边正常",
+    "pinyin": "yī biān zhèng cháng",
+    "english": "one side is normal",
+    "lesson": "4-14"
+  },
+  {
+    "chinese": "休学",
+    "pinyin": "xiū xué",
+    "english": "Suspension of studies",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "建筑",
+    "pinyin": "jiàn zhù",
+    "english": "Architecture",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "继续",
+    "pinyin": "jì xù",
+    "english": "continue",
+    "lesson": "4-15"
+  },
+  {
+    "chinese": "点赞",
+    "pinyin": "diǎn zàn",
+    "english": "give a like",
+    "lesson": "4-15"
   }
 ]
