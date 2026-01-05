@@ -12,7 +12,7 @@ CSV
  
 ```
 chinese,pinyin,english,lesson
-水,shuǐ,water,1-1
+水,shuǐ,water,1-1 
 ```
 
 JSON
