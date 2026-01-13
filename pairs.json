@@ -558,6 +558,12 @@
     "lesson": "1-9"
   },
   {
+    "chinese": "李天美",
+    "pinyin": "lǐ tiān měi",
+    "english": "Li Tianmei",
+    "lesson": "1-9"
+  },
+  {
     "chinese": "还是",
     "pinyin": "hái shì",
     "english": "or (choice)",
@@ -1448,7 +1454,7 @@
   {
     "chinese": "台灯",
     "pinyin": "tái dēng",
-    "english": "lamp",
+    "english": "table lamp",
     "lesson": "2-7"
   },
   {
@@ -2114,7 +2120,7 @@
   {
     "chinese": "书房",
     "pinyin": "shū fáng",
-    "english": "study",
+    "english": "study room",
     "lesson": "2-12"
   },
   {
@@ -2240,7 +2246,7 @@
   {
     "chinese": "前",
     "pinyin": "qián",
-    "english": "before",
+    "english": "before / in front/time",
     "lesson": "2-13"
   },
   {
@@ -2901,6 +2907,12 @@
     "chinese": "谁",
     "pinyin": "shéi",
     "english": "who",
+    "lesson": "2-18"
+  },
+  {
+    "chinese": "赵小月",
+    "pinyin": "zhào xiǎo yuè",
+    "english": "Zhao Xiaoyue",
     "lesson": "2-18"
   },
   {
@@ -3740,7 +3752,7 @@
   {
     "chinese": "题目",
     "pinyin": "tí mù",
-    "english": "topic",
+    "english": "title",
     "lesson": "2-27"
   },
   {
@@ -4458,6 +4470,12 @@
     "lesson": "3-3"
   },
   {
+    "chinese": "六月",
+    "pinyin": "liù yuè",
+    "english": "June",
+    "lesson": "3-3"
+  },
+  {
     "chinese": "差",
     "pinyin": "chà",
     "english": "poor",
@@ -4466,7 +4484,7 @@
   {
     "chinese": "会员",
     "pinyin": "huì yuán",
-    "english": "member",
+    "english": "member (paid)",
     "lesson": "3-4"
   },
   {
@@ -5232,6 +5250,12 @@
     "lesson": "3-10"
   },
   {
+    "chinese": "八月",
+    "pinyin": "bā yuè",
+    "english": "August",
+    "lesson": "3-10"
+  },
+  {
     "chinese": "水瓶",
     "pinyin": "shuǐ píng",
     "english": "water bottle",
@@ -5349,6 +5373,18 @@
     "chinese": "山顶",
     "pinyin": "shān dǐng",
     "english": "summit",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "五月",
+    "pinyin": "wǔ yuè",
+    "english": "May",
+    "lesson": "3-11"
+  },
+  {
+    "chinese": "十月",
+    "pinyin": "shí yuè",
+    "english": "October",
     "lesson": "3-11"
   },
   {
@@ -5756,7 +5792,7 @@
   {
     "chinese": "演出",
     "pinyin": "yǎn chū",
-    "english": "performance",
+    "english": "performance / show",
     "lesson": "3-16"
   },
   {
@@ -6672,6 +6708,12 @@
     "lesson": "3-24"
   },
   {
+    "chinese": "三月",
+    "pinyin": "sān yuè",
+    "english": "March",
+    "lesson": "3-24"
+  },
+  {
     "chinese": "室内",
     "pinyin": "shì nèi",
     "english": "indoors",
@@ -6786,6 +6828,12 @@
     "lesson": "3-25"
   },
   {
+    "chinese": "七月",
+    "pinyin": "qī yuè",
+    "english": "July",
+    "lesson": "3-25"
+  },
+  {
     "chinese": "简历",
     "pinyin": "jiǎn lì",
     "english": "resume",
@@ -6879,6 +6927,12 @@
     "chinese": "非常感谢",
     "pinyin": "fēi cháng gǎn xiè",
     "english": "Thank you very much",
+    "lesson": "3-26"
+  },
+  {
+    "chinese": "九月",
+    "pinyin": "jiǔ yuè",
+    "english": "September",
     "lesson": "3-26"
   },
   {
@@ -7149,6 +7203,12 @@
     "chinese": "度",
     "pinyin": "dù",
     "english": "degree (temperature)",
+    "lesson": "3-29"
+  },
+  {
+    "chinese": "十二月",
+    "pinyin": "shí èr yuè",
+    "english": "December",
     "lesson": "3-29"
   },
   {
@@ -8384,7 +8444,7 @@
   {
     "chinese": "到处",
     "pinyin": "dào chù",
-    "english": "everywhere",
+    "english": "everywhere (common use)",
     "lesson": "4-13"
   },
   {
@@ -8726,7 +8786,7 @@
   {
     "chinese": "成员",
     "pinyin": "chéng yuán",
-    "english": "member",
+    "english": "member (casual)",
     "lesson": "4-17"
   },
   {
@@ -8800,6 +8860,222 @@
     "pinyin": "jiǎng jīn",
     "english": "bonus",
     "lesson": "4-17"
+  },
+  {
+    "chinese": "主角",
+    "pinyin": "zhǔ jué",
+    "english": "leading role",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "独特",
+    "pinyin": "dú tè",
+    "english": "unique",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "艺术节",
+    "pinyin": "yì shù jié",
+    "english": "art festival",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "观众",
+    "pinyin": "guān zhòng",
+    "english": "audience",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "顺利",
+    "pinyin": "shùn lì",
+    "english": "smooth",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "话剧",
+    "pinyin": "huà jù",
+    "english": "modern drama",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "灯",
+    "pinyin": "dēng",
+    "english": "lamp",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "女",
+    "pinyin": "nǚ",
+    "english": "female",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "音乐剧",
+    "pinyin": "yīn lè jù",
+    "english": "musical",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "场",
+    "pinyin": "cháng",
+    "english": "[c] events",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "现场",
+    "pinyin": "xiàn chǎng",
+    "english": "live",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "上半场",
+    "pinyin": "shàng bàn cháng",
+    "english": "first half",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "下半场",
+    "pinyin": "xià bàn cháng",
+    "english": "second half",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "搞笑",
+    "pinyin": "gǎo xiào",
+    "english": "funny/comedy",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "剧本",
+    "pinyin": "jù běn",
+    "english": "script",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "总的来说",
+    "pinyin": "zǒng de lái shuō",
+    "english": "overall",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "经典",
+    "pinyin": "jīng diǎn",
+    "english": "classic",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "分析",
+    "pinyin": "fēn xī",
+    "english": "analyze",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "任务",
+    "pinyin": "rèn wu",
+    "english": "task",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "愿意",
+    "pinyin": "yuàn yi",
+    "english": "willing",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "注册",
+    "pinyin": "zhù cè",
+    "english": "register",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "读",
+    "pinyin": "dú",
+    "english": "read",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "随时",
+    "pinyin": "suí shí",
+    "english": "anytime",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "经济",
+    "pinyin": "jīng jì",
+    "english": "economy",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "下载",
+    "pinyin": "xià zǎi",
+    "english": "download",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "话题",
+    "pinyin": "huà tí",
+    "english": "topic",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "说明",
+    "pinyin": "shuō míng",
+    "english": "explanation",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "东南亚",
+    "pinyin": "dōng nán yà",
+    "english": "Southeast Asia",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "图片",
+    "pinyin": "tú piàn",
+    "english": "picture",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "紧急",
+    "pinyin": "jǐn jí",
+    "english": "urgent",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "之前",
+    "pinyin": "zhī qián",
+    "english": "before (in time)",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "键盘",
+    "pinyin": "jiàn pán",
+    "english": "keyboard",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "麻烦",
+    "pinyin": "má fan",
+    "english": "troublesome",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "总结",
+    "pinyin": "zǒng jié",
+    "english": "summarize",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "",
+    "pinyin": "",
+    "english": "",
+    "lesson": ""
+  },
+  {
+    "chinese": "拿",
+    "pinyin": "ná",
+    "english": "to hold",
+    "lesson": "1-5"
   },
   {
     "chinese": "吵架",
@@ -9364,6 +9640,35 @@
     "pinyin": "zhuàn",
     "english": "earn / make a profit",
     "lesson": "4-17"
+  },
+  {
+    "chinese": "嘘",
+    "pinyin": "xū",
+    "english": "shhh",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "打鼓",
+    "pinyin": "dǎ gǔ",
+    "english": "play the drums",
+    "lesson": "4-18"
+  },
+  {
+    "chinese": "篇",
+    "pinyin": "piān",
+    "english": "[c] written items",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "遍",
+    "pinyin": "biàn",
+    "english": "everywhere",
+    "lesson": "4-19"
+  },
+  {
+    "chinese": "遍",
+    "pinyin": "biàn",
+    "english": "[c] one time",
+    "lesson": "4-19"
   }
 ]
-
