@@ -92,6 +92,7 @@ chinese,pinyin,english,lesson
 有,yǒu,have,1-9
 今天,jīn tiān,today,1-9
 节,jié,[c] for sessions,1-9
+李天美,lǐ tiān měi,Li Tianmei,1-9
 还是,hái shì ,or (choice),1-10
 健身房,jiàn shēn fáng,gym,1-10
 打,dǎ,beat/pack,1-10
@@ -240,7 +241,7 @@ chinese,pinyin,english,lesson
 哥哥,gē ge,brother,2-6
 这些,zhè xiē ,these,2-7
 东西,dōng xi,thing,2-7
-台灯,tái dēng,lamp,2-7
+台灯,tái dēng, table lamp,2-7
 书架,shū jià,bookshelf,2-7
 打扫,dǎ sǎo,cleaning,2-7
 室友,shì yǒu,roommate,2-7
@@ -351,7 +352,7 @@ chinese,pinyin,english,lesson
 玉米,yù mǐ ,corn,2-12
 家人,jiā rén,family members,2-12
 照片,zhào piàn,photo,2-12
-书房,shū fáng,study,2-12
+书房,shū fáng,study room,2-12
 节目,jié mù,program,2-12
 西瓜,xī guā,watermelon,2-12
 请进,qǐng jìn,please come in,2-12
@@ -372,7 +373,7 @@ chinese,pinyin,english,lesson
 出国,chū guó ,travel abroad,2-13
 年,nián ,year,2-13
 长大,zhǎng dà ,grew up,2-13
-前,qián,before,2-13
+前,qián,before / in front/time,2-13
 动画片,dòng huà piàn,cartoon,2-13
 回,huí,return/reply,2-13
 小时候,xiǎo shí hou,when I was young,2-13
@@ -483,6 +484,7 @@ chinese,pinyin,english,lesson
 衬衫,chèn shān,shirt/blouse,2-18
 层,céng,floor (level),2-18
 谁,shéi,who,2-18
+赵小月,zhào xiǎo yuè,Zhao Xiaoyue,2-18
 水杯,shuǐ bēi ,water cup,2-19
 身份证,shēn fèn zhèng,ID card,2-19
 名字,míng zi,name,2-19
@@ -622,7 +624,7 @@ chinese,pinyin,english,lesson
 邮件,yóu jiàn,email,2-27
 问题,wèn tí,question/problem,2-27
 问,wèn,ask,2-27
-题目,tí mù,topic,2-27
+题目,tí mù,title,2-27
 什么时候,shén me shí hou,when,2-27
 讨论,tǎo lùn,discuss,2-27
 怎么办,zěn me bàn,what should I do,2-27
@@ -742,8 +744,9 @@ T恤,xù,T-shirt,3-1
 面试,miàn shì,interview,3-3
 搬到,bān dào,move to..,3-3
 下雨,xià yǔ,rain,3-3
+六月,liù yuè,June,3-3
 差,chà ,poor,3-4
-会员,huì yuán,member,3-4
+会员,huì yuán,member (paid),3-4
 预订,yù dìng,to book,3-4
 客服,kè fú,customer service,3-4
 有问题,yǒu wèn tí,have a problem,3-4
@@ -871,6 +874,7 @@ T恤,xù,T-shirt,3-1
 也许,yě xǔ,maybe,3-10
 教授,jiào shòu,professor,3-10
 从,cóng,from (origin),3-10
+八月,bā yuè,August,3-10
 水瓶,shuǐ píng ,water bottle,3-11
 这么,zhè me ,such,3-11
 几个,jǐ gè ,few,3-11
@@ -891,6 +895,8 @@ T恤,xù,T-shirt,3-1
 背包,bēi bāo,backpack,3-11
 树,shù,tree,3-11
 山顶,shān dǐng,summit,3-11
+五月,wǔ yuè,May,3-11
+十月,shí yuè,October,3-11
 聚在一起,jù zài yì qǐ ,gather,3-12
 年龄,nián líng ,age,3-12
 关系,guān xi,relationship,3-12
@@ -958,7 +964,7 @@ T恤,xù,T-shirt,3-1
 饱,bǎo,full,3-15
 瓶,píng,bottle of,3-15
 热狗,rè gǒu ,hot dog,3-16
-演出,yǎn chū ,performance,3-16
+演出,yǎn chū ,performance / show,3-16
 出来,chū lái ,come out,3-16
 出口,chū kǒu ,exit,3-16
 表演,biǎo yǎn ,perform,3-16
@@ -1111,6 +1117,7 @@ T恤,xù,T-shirt,3-1
 前男友,qián nán yǒu,ex-boyfriend,3-24
 分手,fēn shǒu,break up,3-24
 吃惊,chī jīng,neutral/bad surprise,3-24
+三月,sān yuè,March,3-24
 室内,shì nèi,indoors,3-25
 社区中心,shè qū zhōng xīn,community center,3-25
 下棋,xià qí,play chess,3-25
@@ -1130,6 +1137,7 @@ T恤,xù,T-shirt,3-1
 日历,rì lì,calendar,3-25
 呢,ne,used to ask back,3-25
 怎么写,zěn me xiě,how to write,3-25
+七月,qī yuè,July,3-25
 简历,jiǎn lì,resume,3-26
 自己,zì jǐ,oneself,3-26
 女士,nǚ shì,Madam,3-26
@@ -1146,6 +1154,7 @@ T恤,xù,T-shirt,3-1
 内,nèi,within,3-26
 结果,jiē guǒ,result,3-26
 非常感谢,fēi cháng gǎn xiè,Thank you very much,3-26
+九月,jiǔ yuè,September,3-26
 已经,yǐ jīng,already,3-27
 店,diàn,store,3-27
 服务台,fú wù tái,information desk,3-27
@@ -1191,6 +1200,7 @@ T恤,xù,T-shirt,3-1
 下次吧,xià cì bā,next time!,3-29
 心情,xīn qíng,mood,3-29
 度,dù,degree (temperature),3-29
+十二月,shí èr yuè,December,3-29
 衣帽间,yī mào jiān,cloakroom,3-30
 有时间,yǒu shí jiān,have time,3-30
 取钱,qǔ qián ,withdraw,3-30
@@ -1396,7 +1406,7 @@ T恤,xù,T-shirt,3-1
 弄坏,nòng huài,break,4-13
 本子,běn zi,notebook,4-13
 饮水机,yǐn shuǐ jī,water dispenser,4-13
-到处,dào chù,everywhere,4-13
+到处,dào chù,everywhere (common use),4-13
 看到,kàn dào,see,4-13
 休息室,xiū xī shì,lounge,4-13
 幸好,xìng hǎo,fortunately,4-13
@@ -1453,7 +1463,7 @@ T恤,xù,T-shirt,3-1
 评价,píng jià,evaluate,4-17
 你觉得呢,nǐ jué de ne,What do you think?,4-17
 表现,biǎo xiàn,performance,4-17
-成员,chéng yuán,member,4-17
+成员,chéng yuán,member (casual),4-17
 年底,nián dǐ,end of the year,4-17
 看法,kàn fǎ,opinion,4-17
 领导,lǐng dǎo,leader,4-17
@@ -1466,6 +1476,42 @@ T恤,xù,T-shirt,3-1
 专家,zhuān jiā,expert,4-17
 优点,yōu diǎn,strength,4-17
 奖金,jiǎng jīn,bonus,4-17
+主角,zhǔ jué,leading role,4-18
+独特,dú tè,unique,4-18
+艺术节,yì shù jié,art festival,4-18
+观众,guān zhòng,audience,4-18
+顺利,shùn lì,smooth,4-18
+话剧,huà jù,modern drama,4-18
+灯,dēng,lamp,4-18
+女,nǚ,female,4-18
+音乐剧,yīn lè jù,musical,4-18
+场,cháng,[c] events,4-18
+现场,xiàn chǎng,live,4-18
+上半场,shàng bàn cháng,first half,4-18
+下半场,xià bàn cháng,second half,4-18
+搞笑,gǎo xiào,funny/comedy,4-18
+剧本,jù běn,script,4-18
+总的来说,zǒng de lái shuō,overall,4-18
+经典,jīng diǎn,classic,4-18
+分析,fēn xī,analyze,4-19
+任务,rèn wu,task,4-19
+愿意,yuàn yi,willing,4-19
+注册,zhù cè,register,4-19
+读,dú,read,4-19
+随时,suí shí,anytime,4-19
+经济,jīng jì,economy,4-19
+下载,xià zǎi,download,4-19
+话题,huà tí,topic,4-19
+说明,shuō míng,explanation,4-19
+东南亚,dōng nán yà,Southeast Asia,4-19
+图片,tú piàn,picture,4-19
+紧急,jǐn jí,urgent,4-19
+之前,zhī qián,before (in time),4-19
+键盘,jiàn pán,keyboard,4-19
+麻烦,má fan,troublesome,4-19
+总结,zǒng jié,summarize,4-19
+,,,
+拿,ná,to hold,1-5
 吵架,chǎo jià,argue,4-2
 尴尬,gān gà,awkward,4-2
 咱们,zán men,we/us (casual),4-2
@@ -1560,3 +1606,8 @@ T恤,xù,T-shirt,3-1
 升职,shēng zhí,promotion,4-17
 请客,qǐng kè,to entertain guests,4-17
 赚,zhuàn,earn / make a profit,4-17
+嘘,xū,shhh,4-18
+打鼓,dǎ gǔ,play the drums,4-18
+篇,piān,[c] written items,4-19
+遍,biàn,everywhere,4-19
+遍,biàn,[c] one time,4-19
